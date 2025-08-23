@@ -1,0 +1,29 @@
+Seed: 1234
+            NAME              |   ATTRS   |   TIME   |  DURATION  |   RANGE   | SCHOOL | DESCRIPTION
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LEVEL 0:                      |            |          |            |           |      |
+INFESTATION                   |     V S M  | A        | INST       | 30        | CONJ | The target must succeed on a Con. save or take 1d6 poison damage and move 5 ft in a random direction (damage/lvl).
+TRUE STRIKE                   | C     S    | A        | ROUND      | 30        | DIVI | The caster gains advantage on his first attack roll against a target.
+LIGHT                         |     V   M  | A        | HR         | TOUCH     | EVOC | Make an object to shed bright light in a 20-ft radius and dim light in an additional 20-ft radius.
+THUNDERCLAP                   |       S    | A        | INST       | 5         | EVOC | Creatures within 5 ft must succeed on a Con. save or take 1d6 thunder damage (damage/lvl).
+                              |            |          |            |           |      |
+LEVEL 1:                      |            |          |            |           |      |
+SEARING SMITE                 | C   V      | BA       | MIN        | SELF      | EVOC | If the attack hits, deals an extra 1d6 fire damage and ignite the target (damage/lvl).
+ALARM                         |   R V S M  | MIN      | 8 HRS      | 30        | ABJU | Alert the caster or activate an alarm if a Tiny or larger creature enters a warded 20-ft cube.
+SNARE                         |       S M  | MIN      | DISP, TRIG | TOUCH     | ABJU | Create a magic trap (Dex. save or the Small to Large size creature is hoisted into the air).
+PROTECTION FROM EVIL AND GOOD | C   V S M  | A        | 10 MINS    | TOUCH     | ABJU | The target is protected (disadvantage on attack rolls) against aberrations, celestials, elementals, fey, fiends, and undead.
+                              |            |          |            |           |      |
+LEVEL 2:                      |            |          |            |           |      |
+DARKNESS                      | C   V   M  | A        | 10 MINS    | 60        | EVOC | Fill a 15-ft-radius sphere of magical darkness.
+EARTHBIND                     | C   V      | A        | MIN        | 300       | TRAN | Target within 300 ft must succeed on a Str. save or its flying speed is reduced to 0 (descends at 60 ft/round).
+ENHANCE ABILITY               | C   V S M  | A        | HR         | TOUCH     | TRAN | The target gains advantage on ability checks for one predefined ability, and other bonuses in such cases (+1 creature/lvl).
+                              |            |          |            |           |      |
+LEVEL 3:                      |            |          |            |           |      |
+ERUPTING EARTH                |     V S M  | A        | INST       | 120       | TRAN | Creatures in a 20-foot cube (difficult terrain) must succeed on a Dex. save or take 3d12 bludgeoning damage (damage/lvl).
+GASEOUS FORM                  | C   V S M  | A        | HR         | TOUCH     | TRAN | The target turns into a cloud, gets a flying speed of 10 ft, and can pass through small holes.
+TINY SERVANT                  |     V S    | MIN      | 8 HRS      | TOUCH     | TRAN | Transform one Tiny object into a creature with arms and legs under the caster control (+2 objects/lvl).
+                              |            |          |            |           |      |
+LEVEL 4:                      |            |          |            |           |      |
+POLYMORPH                     | C   V S M  | A        | HR         | 60        | TRAN | Transform a target into a new beast form whose CR/level is equal to or less than the target's CR/level.
+PHANTASMAL KILLER             | C   V S    | A        | MIN        | 120       | ILLU | The target must succeed on a Wis. save or be frightened then take 4d10 psychic damage (damage/lvl) on each of it's turn.
+                              |            |          |            |           |      |

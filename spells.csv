@@ -1,0 +1,478 @@
+Lvl,Spell,Ritual,Concentration,Range,"V,S,M",School,Casting Time,Description
+8,Abi-Dalzim's Horrid Wilting,,,150 ft,"V,S,M",necromancy,1 action,Creatures in a 30-foot cube must succeed on a Con. save or take 12d8 necrotic damage. Plants wither and die.
+1,Absorb Elements,,,Self,S,abjuration,1 reaction,The caster has resistance to the damage received and deals 1d6 extra damage of the same type on his next attack (damage/lvl).
+0,Acid Splash,,,60 ft,"V,S",conjuration,1 action,1 or 2 creatures within 5 feet must succeed on a Dex. save or take 1d6 acid damage (damage/lvl).
+2,Aganazzar's Scorcher,,,30 ft,"V,S,M",evocation,1 action,"Creatures on a 30-ft-long, 5-ft-wide line must succeed on a Dex. save or taker 3d8 fire damage (damage/lvl)."
+2,Aid,,,30 ft,"V,S,M",abjuration,1 action,Up to 3 creatures increase their hp maximum and current hp by 5 (+5 hp/lvl).
+1,Alarm,Ritual,,30 ft,"V,S,M",abjuration,1 minute,Alert the caster or activate an alarm if a Tiny or larger creature enters a warded 20-ft cube.
+2,Alter Self,,Concentration,Self,"V,S",transmutation,1 action,"Give a new form depending on the chosen option (Aquatic Adaptation, Change Appearance, or Natural Weapons)."
+1,Animal Friendship,,,30 ft,"V,S,M",enchantment,1 action,A beast with Intelligence 3 or less must succeed on a Wis. save or be charmed (+1 beast/lvl).
+2,Animal Messenger,Ritual,,30 ft,"V,S,M",enchantment,1 action,A Tiny beast travels to deliver a 25 words message to a target (+48 h/lvl).
+8,Animal Shapes,,Concentration,30 ft,"V,S",transmutation,1 action,Willing targets within 30 ft turn into beasts of FP 4 or lower.
+3,Animate Dead,,,10 ft,"V,S,M",necromancy,1 minute,"Create a skeleton from bones or a zombie from a corpse, who is under the caster control (+2 creatures/lvl)."
+5,Animate Objects,,Concentration,120 ft,"V,S",transmutation,1 action,Animate up to 10 non-magic objects and control their actions up to 500 ft (+2 items/lvl).
+5,Antilife Shell,,Concentration,Self (10-ft radius),"V,S",abjuration,1 action,Prevent creatures other than undead and constructs from entering in a 10-ft radius.
+8,Antimagic Field,,Concentration,Self (10-ft-radius sphere),"V,S,M",abjuration,1 action,Create a 10-ft-radius sphere in which spells and magic items no longer work.
+8,Antipathy/Sympathy,,,60 ft,"V,S,M",enchantment,1 hour,Attract or repel (Wis. save in order to not be attracted or scared) a kind of creature designated within 60 ft.
+4,Arcane Eye,,Concentration,30 ft,"V,S,M",divination,1 action,Create an invisible eye with darkvision that sends the caster the mental image of what it sees.
+6,Arcane Gate,,Concentration,500 ft,"V,S",conjuration,1 action,Create 2 portals (max 500 ft between them) and allow teleport from one to the other.
+2,Arcane Lock,,,Touch,"V,S,M",abjuration,1 action,"Lock an objet (door, window, chest, etc) and the caster can set a password to suppresses the spell for 1 minute."
+1,Armor of Agathys,,,Self,"V,S,M",abjuration,1 action,The caster gains 5 temporary hp and creatures who hits him with a melee attack take 5 cold damage (+5 hp and damage/lvl).
+1,Arms of Hadar,,,Self (10-ft radius),"V,S",conjuration,1 action,Creatures in a 10-ft radius must succeed on a Str. save or take 2d6 necrotic damage (damage/lvl)
+9,Astral Projection,,,10 ft,"V,S,M",necromancy,1 hour,The caster and up to 8 creatures are projected into the Astral Plane.
+2,Augury,Ritual,,Self,"V,S,M",divination,1 minute,"The caster obtains an omen about the result of an action within the next 30 min (weal, woe, both or nothing)."
+4,Aura of Life,,Concentration,Self (30-ft radius),V,abjuration,1 action,Creatures in a 30-ft radius gain resistance to necrotic damage and regain 1 hp when at 0 hp.
+4,Aura of Purity,,Concentration,Self (30-ft radius),V,abjuration,1 action,"Creatures in a 30-ft radius can not become diseased, gain resistance to poison, and get advantage to various saving throws."
+3,Aura of Vitality,,Concentration,Self (30-ft radius),V,evocation,1 action,One target in a 30-ft radius regains 2d6 hp.
+5,Awaken,,,Touch,"V,S,M",transmutation,8 hours,Give a beast or plant (Intelligence 3 or less) the ability to speek and senses similar to a human's for 30 days.
+1,Bane,,Concentration,30 ft,"V,S,M",enchantment,1 action,Up to 3 targets must succeed on a Cha. save or subtract 1d4 from their attack roll or saving throw (+1 creature/lvl).
+5,Banishing Smite,,Concentration,Self,V,abjuration,1 bonus action,"If the weapon attack hits, deal an extra 5d10 force damage. Target reduced to 50 hp or fewer this way are banised."
+4,Banishment,,Concentration,60 ft,"V,S,M",abjuration,1 action,The target must succeed on a Cha. save or be banished to a harmless demiplane (+1 creature/lvl).
+2,Barkskin,,Concentration,Touch,"V,S,M",transmutation,1 action,The target's AC can't be less than 16.
+3,Beacon of Hope,,Concentration,30 ft,"V,S",abjuration,1 action,"Targets gain advantage on Wis. saving throws and death saving throws, and regain the maximum number of hp from healing."
+1,Beast Bond,,Concentration,Touch,"V,S,M",divination,1 action,Create a telepathic link with one beast to communicate with it.
+2,Beast Sense,Ritual,Concentration,Touch,S,divination,1 action,The caster can see/hear/feel through the senses of a willing beast.
+3,Bestow Curse,,Concentration,Touch,"V,S",necromancy,1 action,The target must succeed on a Wis. save or suffer an effect as a disadvantage to a check or lose an action (duration/lvl).
+5,Bigby's Hand,,Concentration,120 ft,"V,S,M",evocation,1 action,"Create a Large hand with a Strength of 26 that can strike (4d8 force damage), push, grapple, or protect (damage/lvl)."
+6,Blade Barrier,,Concentration,90 ft,"V,S",evocation,1 action,Create a 100 x 20 x 5 ft wall that provides three-quarters cover and can inflict 6d10 slashing damage if passed through.
+9,Blade of Disaster,,Concentration,60 ft,"V,S",conjuration,1 bonus action,Make two melee spell attacks and deals 4d12 force damage. Critical hit (18-20) deals 12d12. +2 attacks as bonus action.
+0,Blade Ward,,,Self,"V,S",abjuration,1 action,"The caster gets resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks."
+1,Bless,,Concentration,30 ft,"V,S,M",enchantment,1 action,Up to 3 targets can add 1d4 to their attack roll or saving throw (+1 creature/lvl).
+4,Blight,,,30 ft,"V,S",necromancy,1 action,The target must succeed on a Con. save or take 8d8 necrotic damage (damage/lvl).
+3,Blinding Smite,,Concentration,Self,V,evocation,1 bonus action,"If the attack hits, deals an extra 3d8 radiant damage and the target must succeed on a Con. save or be blinded."
+2,Blindness/Deafness,,,30 ft,V,necromancy,1 action,The target must succeed on a Con. save or become blinded or deafened (+1 creature/lvl).
+3,Blink,,,Self,"V,S",transmutation,1 action,"The caster has 50% of chance to switch to the Ethereal Plane, then returns to the space he vanished from on the next turn."
+2,Blur,,Concentration,Self,V,illusion,1 action,The caster's body becomes blurred and creatures that attack him have disadvantage on attack rolls against him.
+6,Bones of the Earth,,,120 ft,"V,S",transmutation,1 action,Create up to 6 vertical 5 x 30 ft pillars of stone (+2 pillars/lvl). Possibility of crushing creatures to the ceiling.
+0,Booming Blade,,,Self (5-ft radius),"V,M",evocation,1 action,"If a weapon attack hits, deals 1d8 thunder damage if the target moves (damage/lvl)."
+2,Branding Smite,,Concentration,Self,V,evocation,1 bonus action,"If a weapon attack hits, deals an extra 2d6 radiant damage and the target sheds dim light in 5-ft radius (damage/lvl)."
+1,Burning Hands,,,Self (15-ft cone),"V,S",evocation,1 action,Creatures in a 15-ft cone must succeed on a Dex. save or take 3d6 fire damage (damage/lvl).
+3,Call Lightning,,Concentration,120 ft,"V,S",conjuration,1 action,Creatures in a 5-ft radius must succeed on a Dex. save or take 3d10 lightning damage (damage/lvl) on each turn.
+2,Calm Emotions,,Concentration,60 ft,"V,S",enchantment,1 action,"Creatures in a 20-foot-radius sphere must succeed on a Cha. save or no longer be charmed/frightened, or be indifferents."
+1,Catapult,,,60 ft,S,transmutation,1 action,The target must succeed on Dex. save or take 3d8 bludgeoning damage of an object up to 5 pounds (+5 pounds and +1d8/lvl).
+3,Catnap,,,30 ft,"S,M",enchantment,1 action,3 willing creatures fall unconscious and gain the benefice of a short rest (+1 creature/lvl).
+1,Cause Fear,,Concentration,60 ft,V,necromancy,1 action,The target must succeed on a Wis. save or becomes frightened (nbr of targets/lvl).
+1,Ceremony,Ritual,,Touch,"V,S,M",abjuration,1 hour,"Perform a religious ceremony (bless water, give bonus to AC, ability check, saving throw, etc)."
+6,Chain Lightning,,,150 ft,"V,S,M",evocation,1 action,Up to 4 different targets must succeed on a Dex. save or take 10d8 lightning damage (+1 target/lvl).
+1,Chaos Bolt,,,120 ft,"V,S",evocation,1 action,"If the attack hits, deals 2d8 + 1d6 damage of a random type (damage/lvl). Rebound if double 8."
+4,Charm Monster,,,30 ft,"V,S",enchantment,1 action,The target must succeed on a Wis. save or be charmed by the caster (duration/lvl).
+1,Charm Person,,,30 ft,"V,S",enchantment,1 action,The humanoid target must succeed on a Wis. save or be charmed by the caster (+1 creature/lvl).
+0,Chill Touch,,,120 ft,"V,S",necromancy,1 action,"If the spell attack hits, deals 1d8 necrotic damage (damage/lvl) and the target can't regain hp immediately."
+1,Chromatic Orb,,,90 ft,"V,S,M",evocation,1 action,"If the spell attack hits, deals 3d8 damage of a previously determined type (damage/lvl)"
+6,Circle of Death,,,150 ft,"V,S,M",necromancy,1 action,Creatures in a 60-ft-radius sphere must succeed on a Con. save or take 8d6 necrotic damage (damage/lvl).
+5,Circle of Power,,Concentration,Self (30-ft radius),V,abjuration,1 action,Friendly creatures in a 30-ft radius have advantage on saving throws against spells and other magicial effects.
+3,Clairvoyance,,Concentration,1 mile,"V,S,M",divination,10 minutes,"Create an invisible sensor in a familiar location within 1 mile, allowing to see or to hear (to choose, can switch)."
+8,Clone,,,Touch,"V,S,M",necromancy,1 hour,"Create in 120 days the inert double of a living creature. If the original creature dies, its soul is transferred to the clone."
+2,Cloud of Daggers,,Concentration,60 ft,"V,S,M",conjuration,1 action,Creatures in a 5-ft cube take automatically 4d4 slashing damage (damage/lvl).
+5,Cloudkill,,Concentration,120 ft,"V,S",conjuration,1 action,Creatures in a 20-ft-radius sphere must succeed on a Con. save or take 5d8 poison damage (damage/lvl).
+1,Color Spray,,,Self (15-ft cone),"V,S,M",illusion,1 action,6d10 creatures hp are dazzled in ascending order of their current hp (+2d10 hp/lvl).
+1,Command,,,60 ft,V,enchantment,1 action,"The target must succeed on a Wis. save or follow your order as Approach, Drop, Flee, Fall, Halt, etc (+1 creature/lvl)."
+5,Commune,Ritual,,Self,"V,S,M",divination,1 minute,Allow to obtain from a divine entity the answers (yes or no) to 3 questions.
+5,Commune with Nature,Ritual,,Self,"V,S",divination,1 minute,The caster gets 3 informations about the surrounding territory. Doesn't function in dungeons or towns.
+1,Compelled Duel,,Concentration,30 ft,V,enchantment,1 bonus action,The target must succeed on a Wis. save or get a disadvantage on attack rolls against creatures other than the caster.
+1,Comprehend Languages,Ritual,,Self,"V,S,M",divination,1 action,The caster understands any spoken and written (1 min/page) language. Doesn't decode secret messages.
+4,Compulsion,,Concentration,30 ft,"V,S",enchantment,1 action,Targets within 30 ft must succeed on a Wis. save or move in a specified direction.
+5,Cone of Cold,,,Self (60-ft cone),"V,S,M",evocation,1 action,Creatures in a 60-ft cone must succeed on a Con. save or take 8d8 cold damage (damage/lvl).
+4,Confusion,,Concentration,90 ft,"V,S,M",enchantment,1 action,Creatures in a 10-ft-radius sphere must succeed on a Wis. save or can't take actions normally (+ 5-ft radius/lvl).
+3,Conjure Animals,,Concentration,60 ft,"V,S",conjuration,1 action,"Summon from 1 beast of CR 2 to 8 beasts of CR 1/4, friendly (nbr of creatures/lvl)."
+3,Conjure Barrage,,,Self (60-ft cone),"V,S,M",conjuration,1 action,Creatures in a 60-ft cone must succeed on a Dex. save or take 3d8 damage from the weapon/ammunition used.
+7,Conjure Celestial,,Concentration,90 ft,"V,S",conjuration,1 minute,"Summon 1 celestial of CR 4, friendly (CR +1/lvl)."
+5,Conjure Elemental,,Concentration,90 ft,"V,S,M",conjuration,1 minute,"Summon 1 elemental of CR 5, friendly (CR +1/lvl)."
+6,Conjure Fey,,Concentration,90 ft,"V,S",conjuration,1 minute,"Summon 1 fey of CR 6, friendly (CR +1/lvl)."
+4,Conjure Minor Elementals,,Concentration,90 ft,"V,S",conjuration,1 minute,"Summon from 1 elemental of CR 2 to 8 elemental of CR 1/4, friendly (nbr of creatures/lvl)."
+5,Conjure Volley,,,150 ft,"V,S,M",conjuration,1 action,"Creatures in a 40-ft-radius, 20-ft-high cylinder must succeed on a Dex. save or take 8d8 damage from the weapon/ammunition used."
+4,Conjure Woodland Beings,,Concentration,60 ft,"V,S,M",conjuration,1 action,"Summon from 1 fey of CR 2 to 8 fey of CR 1/4, friendly (nbr of creatures/lvl)."
+5,Contact Other Plane,Ritual,,Self,V,divination,1 minute,"Contact an extraplanar entity to ask it 5 questions if an Int. save is successful. Otherwise, 6d6 psychic damage."
+5,Contagion,,,Touch,"V,S",necromancy,1 action,"If the spell attack hits, target is afflicted with a disease to choose from 6 proposed."
+6,Contingency,,,Self,"V,S,M",evocation,10 minutes,Condition the activation of a 5th level spell or lower that can target the caster.
+2,Continual Flame,,,Touch,"V,S,M",evocation,1 action,"Create a flame that produces a light equivalent in brightness to a torch, but does not emit any heat."
+0,Control Flames,,,60 ft,S,transmutation,1 action,"Control nonmagical fires to expand, extinguish, enlarge, shape simple forms, etc."
+4,Control Water,,Concentration,300 ft,"V,S,M",transmutation,1 action,"Control the water in a 100-ft cube (cause a flood, part the water, redirect the flow, create a whirlpool)."
+8,Control Weather,,Concentration,Self (5-mile radius),"V,S,M",transmutation,10 minutes,"Modify gradually the climatic conditions outdoors (precipitation, temperature and wind force)."
+5,Control Winds,,Concentration,300 ft,"V,S",transmutation,1 action,"Controls air in a 100-ft cube and produce an effect (Gusts, Downdraft or Updraft)."
+2,Cordon of Arrows,,,5 ft,"V,S,M",transmutation,1 action,4 ammunition deal 1d6 piercing damage if the target doesn't succeed on a Dex. save (nbr of ammunition/lvl).
+3,Counterspell,,,60 ft,S,abjuration,1 reaction,"In reaction, fail a spell of 3rd level or lower. Ability check if the spell is 4th level or higher (threshold/lvl)."
+0,Create Bonfire,,Concentration,60 ft,"V,S",conjuration,1 action,Creatures in a 5-ft cube must succeed on a Dex. save or take 1d8 fire damage (damage/lvl).
+3,Create Food and Water,,,30 ft,"V,S",conjuration,1 action,"Create 45 pounds of food and 30 gallons of water, enough to sustain 15 humanoids for 24 hours."
+6,Create Homunculus,,,Touch,"V,S,M",transmutation,1 hour,Create one homunculus and the caster can transfer his hit points to it up to his next long rest.
+1,Create or Destroy Water,,,30 ft,"V,S,M",transmutation,1 action,Create or destroy up to 10 gallons of water (+10 gallons/lvl).
+6,Create Undead,,,10 ft,"V,S,M",necromancy,1 minute,Up to 3 Medium or Small humanoids corpses become a ghoul who obey the caster for 24 h (nbr and type of creatures/lvl).
+5,Creation,,,30 ft,"V,S,M",illusion,1 minute,Create a non-living object made of vegetable matter or mineral and no larger than a 5-ft cube (+5 ft/lvl).
+2,Crown of Madness,,Concentration,120 ft,"V,S",enchantment,1 action,The target must succeed on a Wis. save or be charmed. It then can attack a target designated by the caster.
+7,Crown of Stars,,,Self,"V,S",evocation,1 action,"If the spell attack hits, 7 motes deal 4d12 radiant damage each (+1 mote/lvl)."
+3,Crusader's Mantle,,Concentration,Self,V,evocation,1 action,Friendly creatures in a 30-ft radius deal an extra 1d4 radiant damage when they hit with a weapon attack.
+1,Cure Wounds,,,Touch,"V,S",evocation,1 action,1 creature regains 1d8+Ability.Mod (+1d8 hp/lvl).
+0,Dancing Lights,,Concentration,120 ft,"V,S,M",evocation,1 action,Create up to 4 torch-sized lights that shed dim light in a 10-ft radius and can be moved later up to 60 ft.
+5,Danse Macabre,,Concentration,60 ft,"V,S",necromancy,1 action,Up to 5 Small or Medium corpses become zombie or skeleton under the caster control (+2 corpses/lvl).
+2,Darkness,,Concentration,60 ft,"V,M",evocation,1 action,Fill a 15-ft-radius sphere of magical darkness.
+2,Darkvision,,,Touch,"V,S,M",transmutation,1 action,The target can see in the dark within 60 feet.
+5,Dawn,,Concentration,60 ft,"V,S,M",evocation,1 action,"Creatures in a 30-ft-radius, 40-ft-high cylinder must succeed on a Con. save or take 4d10 radiant damage."
+3,Daylight,,,60 ft,"V,S",evocation,1 action,Create a sphere that sheds bright light in a 60-ft radius and dim light in an additional 60-ft radius.
+4,Death Ward,,,Touch,"V,S",abjuration,1 action,"When the target drops to 0 hp for the first time, it automatically returns to 1 hp."
+7,Delayed Blast Fireball,,Concentration,150 ft,"V,S,M",evocation,1 action,Creatures in a 20-ft-radius sphere must succeed on a Dex. save or take 12d6 fire damage (damage/lvl).
+8,Demiplane,,,60 ft,S,conjuration,1 action,Create a door that leads to a demiplane (30-ft cube). Creatures still in the demiplane at the end of the spell are trapped.
+5,Destructive Wave,,,Self (30-ft radius),V,evocation,1 action,Targets in a 30-ft radius must succeed on a Con. save or take 5d6 thunder damage and 5d6 radiant or necrotic damage.
+1,Detect Evil and Good,,Concentration,Self,"V,S",divination,1 action,"The caster senses and locates aberration, celestial, elemental, fey, fiend, or undead within 30 ft."
+1,Detect Magic,Ritual,Concentration,Self,"V,S",divination,1 action,The caster senses the presence of magic in a 30-ft radius and learns its school of magic.
+1,Detect Poison and Disease,Ritual,Concentration,Self,"V,S,M",divination,1 action,"The caster senses and identifies poison, poisonous creature, or disease within 30 ft."
+2,Detect Thoughts,,Concentration,Self,"V,S,M",divination,1 action,"The caster detects the superficial thoughts of a creature within 30 ft, and the deepest if the target misses a Wis. save."
+4,Dimension Door,,,500 ft,V,conjuration,1 action,The caster and another creature of the same size are teleported to a maximum of 500 feet.
+1,Disguise Self,,,Self,"V,S",illusion,1 action,Modify the appearance of the caster (its physical and its equipment) thanks to an illusion.
+6,Disintegrate,,,60 ft,"V,S,M",transmutation,1 action,The target must succeed on a Dex. save or take 10d6+40 force damage (damage/lvl). An Large or smaller object is disintegrated.
+5,Dispel Evil and Good,,Concentration,Self,"V,S,M",abjuration,1 action,"End a condition (charmed, frightened, or possessed) or bannish a creature to its home plane (Cha. save)."
+3,Dispel Magic,,,120 ft,"V,S",abjuration,1 action,End spells of 3rd level 3 or lower on a target. Ability check for each spell of 4th level or higher (threshold/lvl).
+1,Dissonant Whispers,,,60 ft,V,enchantment,1 action,The target must succeed on a Wis. save or take 3d6 psychic damage and move away (damage/lvl).
+4,Divination,Ritual,,Self,"V,S,M",divination,1 action,The caster gets a truthful reply to 1 question about an event to occur within 7 days.
+1,Divine Favor,,Concentration,Self,"V,S",evocation,1 bonus action,"If a weapon attack hits, deals an extra 1d4 radiant damage."
+7,Divine Word,,,30 ft,V,evocation,1 bonus action,"Targets must succeed on a Cha. save or suffer an effect (deafened, blinded, etc). Some creatures are banned."
+4,Dominate Beast,,Concentration,60 ft,"V,S",enchantment,1 action,A beast within 60 ft must succeed on a Wis. save or be charmed and obey the launcher (duration/lvl).
+8,Dominate Monster,,Concentration,60 ft,"V,S",enchantment,1 action,The target must succeed on a Wis. save or be charmed and obey the caster (duration/lvl).
+5,Dominate Person,,Concentration,60 ft,"V,S",enchantment,1 action,One humanoid must succeed on a Wis. save or be charmed and obey the caster (duration/lvl).
+2,Dragon's Breath,,Concentration,Touch,"V,S,M",transmutation,1 bonus action,"Spew a 15-ft cone that deals 3d6 acid, cold, fire, lightning, or poison damage in case of failed Dex. save (damage/lvl)."
+6,Drawmij's Instant Summons,Ritual,,Touch,"V,S,M",conjuration,1 minute,"Mark a 10 pounds or less object and allow to teleport it into the caster hand, wherever it is, if not held."
+5,Dream,,,Special,"V,S,M",illusion,1 minute,Shape the dreams of a sleeping creature who can take 3d6 psychic damage if it fails on a Wis. save.
+7,Dream of the Blue Veil,,,20 ft,"V,S,M",conjuration,10 minutes,You and up to 8 willing creatures fall unconscious and are physically transported to another world on the material plan.
+6,Druid Grove,,,Touch,"V,S,M",abjuration,10 minutes,"Protect a 30 x 30 x 30 ft area with fog, vines, animated trees, or other effects."
+0,Druidcraft,,,30 ft,"V,S",transmutation,1 action,"Provide various minor effects related to nature (weather forecast, flowering, sensory effect, etc)."
+2,Dust Devil,,Concentration,60 ft,"V,S,M",conjuration,1 action,Creatures within 5 ft must succeed on a Str. save or take 1d8 bludgeoning damage (damage/lvl).
+1,Earth Tremor,,,10 ft,"V,S",evocation,1 action,Creatures in a 10-foot radius must succeed on a Dex. save or take 1d6 bludgeoning damage and be knocked prone (damage/lvl).
+2,Earthbind,,Concentration,300 ft,V,transmutation,1 action,Target within 300 ft must succeed on a Str. save or its flying speed is reduced to 0 (descends at 60 ft/round).
+8,Earthquake,,Concentration,500 ft,"V,S,M",evocation,1 action,Creatures in a 100-ft radius must succeed on a Dex. save or be knocked prone. Cause damage to structures.
+0,Eldritch Blast,,,120 ft,"V,S",evocation,1 action,"If the spell attack hits, deals 1d10 force damage (nbr of beam/lvl)."
+4,Elemental Bane,,Concentration,90 ft,"V,S",transmutation,1 action,The target must succeed on a Con. save or suffer an extra 2d6 damage of a specific type (+1 target/lvl).
+3,Elemental Weapon,,Concentration,Touch,"V,S",transmutation,1 action,A weapon becomes magical with a +1 bonus to attack rolls and deal an extra 1d4 damage of a chosen type (bonus/lvl).
+3,Enemies Abound,,Concentration,120 ft,"V,S",enchantment,1 action,The target must succeed on an Int. save or not be able to distinguish friend from foe ; all are ennemis for it.
+5,Enervation,,Concentration,60 ft,"V,S",necromancy,1 action,The target must succeed on a Dex. save or take 4d8 necrotic damage each turn (+1d8/lvl).
+2,Enhance Ability,,Concentration,Touch,"V,S,M",transmutation,1 action,"The target gains advantage on ability checks for one predefined ability, and other bonuses in such cases (+1 creature/lvl)."
+2,Enlarge/Reduce,,Concentration,30 ft,"V,S,M",transmutation,1 action,Double or halve the size of a creature (Con. save) or an object.
+1,Ensnaring Strike,,Concentration,Self,V,conjuration,1 bonus action,The target must succeed on a Str. save or be restrained and take 1d6 piercing damage (damage/lvl).
+1,Entangle,,Concentration,90 ft,"V,S",conjuration,1 action,Creatures in a 20-ft square (difficult terrain) must succeed on a Str. save or be restrained.
+2,Enthrall,,,60 ft,"V,S",enchantment,1 action,Targets must succeed on a Wis. save or have disadvantage on Wisdom (Perception) checks to perceive others creatures.
+3,Erupting Earth,,,120 ft,"V,S,M",transmutation,1 action,Creatures in a 20-foot cube (difficult terrain) must succeed on a Dex. save or take 3d12 bludgeoning damage (damage/lvl).
+7,Etherealness,,,Self,"V,S",transmutation,1 action,The caster is projected into the Ethereal Plane (nbr of creatures/lvl).
+4,Evard's Black Tentacles,,Concentration,90 ft,"V,S,M",conjuration,1 action,Creatures in a 20-ft square must succeed on a Dex. save or take 3d6 bludgeoning damage and be restrained.
+1,Expeditious Retreat,,Concentration,Self,"V,S",transmutation,1 bonus action,The caster can take the Dash action by using a bonus action.
+6,Eyebite,,Concentration,Self,"V,S",necromancy,1 action,"The target in a 60-ft radius must succeed on a Wis. save or take on a the following effects: asleep, panicked or sickened."
+4,Fabricate,,,120 ft,"V,S",transmutation,10 minutes,Convert raw materials into Large or smaller simples objects of the same material.
+1,Faerie Fire,,Concentration,60 ft,V,evocation,1 action,Creatures in a 20-ft cube must succeed on a Dex. save or grant advantage against them to attackers.
+1,False Life,,,Self,"V,S,M",necromancy,1 action,The caster gains 1d4+4 temporary hit points (+5 hp/lvl).
+5,Far Step,,Concentration,Self,V,conjuration,1 bonus action,Teleport the caster up to 60 ft on each round with a bonus action.
+3,Fear,,Concentration,Self (30-ft cone),"V,S,M",illusion,1 action,"Creatures in a 30-ft cone must succeed on a Wis. save or drop whatever they are holding, become frightened and move away."
+1,Feather Fall,,,60 ft,"V,M",transmutation,1 reaction,Up to 5 creatures fall at 60 feet per round and take no falling damage before the spell ends.
+8,Feeblemind,,,150 ft,"V,S,M",enchantment,1 action,The target take 4d6 psychic damage and must succeed on an Int. save or his Charisma and Intelligence scores become 1.
+3,Feign Death,Ritual,,Touch,"V,S,M",necromancy,1 action,The willing target appears dead to all outward inspection.
+1,Find Familiar,Ritual,,10 ft,"V,S,M",conjuration,1 hour,Summon a small animal that obeys the caster and telepathically shares his senses with him.
+4,Find Greater Steed,,,30 ft,"V,S",conjuration,10 minutes,"Summon a spirit that assumes the form a steed (griffon, pegasus, etc) telepathically linked to the caster."
+2,Find Steed,,,30 ft,"V,S",conjuration,10 minutes,"Summon a spirit that assumes the form a steed (horse, elk, etc) telepathically linked to the caster."
+6,Find the Path,,Concentration,Self,"V,S,M",divination,1 minute,Determine the shortest and most direct physical path to reach a known destination.
+2,Find Traps,,,120 ft,"V,S",divination,1 action,"The caster senses the presence of any trap in a 120-ft radius, but the spell don't give their location."
+7,Finger of Death,,,60 ft,"V,S",necromancy,1 action,"The target must succeed on a Con. save or take 7d8+30 necrotic damage. If killed, becomes a zombie under the caster command."
+0,Fire Bolt,,,120 ft,"V,S",evocation,1 action,"If the spell attack hits, deals 1d10 fire damage (damage/lvl). An object can ignite."
+4,Fire Shield,,,Self,"V,S,M",evocation,1 action,"The caster gains resistance to cold or fire damage, and deals 2d8 damage to attackers who hit him within 5 ft."
+7,Fire Storm,,,150 ft,"V,S",evocation,1 action,Creatures in ten 10-ft cube must succeed on a Dex. save or take 7d10 fire damage.
+3,Fireball,,,150 ft,"V,S,M",evocation,1 action,Creatures in a 20-ft radius must succeed on a Dex. save or take 8d6 fire damage (damage/lvl).
+3,Flame Arrows,,Concentration,Touch,"V,S",transmutation,1 action,12 arrows/bolts deal an extra 1d6 fire damage (+2 ammunition/lvl).
+2,Flame Blade,,Concentration,Self,"V,S,M",evocation,1 bonus action,"If the spell attack hits, deals 3d6 fire damage (damage/lvl). Shed bright light in 10 ft and dim light in additional 10 ft."
+5,Flame Strike,,,60 ft,"V,S,M",evocation,1 action,"Creatures in a 10-ft-radius, 40-ft-high cylinder must succeed on a Dex. save or take 4d6 fire and 4d6 radiant (damage/lvl)."
+2,Flaming Sphere,,Concentration,60 ft,"V,S,M",conjuration,1 action,Creatures within 5 ft from a 5-ft-diameter sphere must succeed on a Dex. save or take 2d6 fire damage (damage/lvl).
+6,Flesh to Stone,,Concentration,60 ft,"V,S,M",transmutation,1 action,"The target within 60 ft must succeed on a Con. save or be restrained, or petrified after 3 failures."
+3,Fly,,Concentration,Touch,"V,S,M",transmutation,1 action,The target gets a flying speed of 60 ft (+1 creature/lvl).
+1,Fog Cloud,,Concentration,120 ft,"V,S",conjuration,1 action,Makes an area heavily obscured in a 20-ft-radius sphere (+20 ft/lvl).
+6,Forbiddance,Ritual,,Touch,"V,S,M",abjuration,10 minutes,Prevent teleporting to the protected area and inflicts 5d10 radiant or necrotic damage to some type of creatures.
+7,Forcecage,,,100 ft,"V,S,M",evocation,1 action,Creates a 20-ft cage or a 10-ft box of magical force that traps a creature. Escape by magicial means only.
+9,Foresight,,,Touch,"V,S,M",divination,1 minute,"1 creature sees its near future, can not be surprised and has advantage on his rolls. Attacks against it have disadvantage."
+4,Freedom of Movement,,,Touch,"V,S,M",abjuration,1 action,"Target's movement is unaffected by difficult terrain, spells or water."
+0,Friends,,Concentration,Self,"S,M",enchantment,1 action,The casters gets advantage on all Charisma checks directed at one chosen creature that isn't hostile toward him.
+0,Frostbite,,,60 ft,"V,S",evocation,1 action,The target must succeed on a Con. save or take 1d6 cold damage and have disadvantage on next attack roll (damage/lvl).
+3,Gaseous Form,,Concentration,Touch,"V,S,M",transmutation,1 action,"The target turns into a cloud, gets a flying speed of 10 ft, and can pass through small holes."
+9,Gate,,Concentration,60 ft,"V,S,M",conjuration,1 action,Create a portal to another plan. Also allows to summon a creature from another plane.
+5,Geas,,,60 ft,V,enchantment,1 minute,The target must succeed on a Wis. save or be charmed and take 5d10 psychic if it doesn't obey (duration/lvl).
+2,Gentle Repose,Ritual,,Touch,"V,S,M",necromancy,1 action,Protect a corpse from decay or to become undead.
+4,Giant Insect,,Concentration,30 ft,"V,S",transmutation,1 action,Transform insects (from 10 centipedes to 1 scorpion) into giant creatures that obey the caster's orders.
+8,Glibness,,,Self,V,transmutation,1 action,Give 15 to a Charisma check and hides the lies during a magic detection.
+6,Globe of Invulnerability,,Concentration,Self (10-ft radius),"V,S,M",abjuration,1 action,Block 5th level spells or lower within a 10-ft radius (threshold/lvl).
+3,Glyph of Warding,,,Touch,"V,S,M",abjuration,1 hour,A glyph on an object deals 5d8 damage in a 20-ft radius (damage/lvl) or casts a 3rd level spell (lvl/lvl) when triggered.
+1,Goodberry,,,Touch,"V,S,M",transmutation,1 action,Create up to 10 berries that restore 1 hp each and keep their power for 24 hours.
+4,Grasping Vine,,Concentration,30 ft,"V,S",conjuration,1 bonus action,The target must succeed on a Dex. save or be pulled 20 ft toward the vine.
+1,Grease,,,60 ft,"V,S,M",conjuration,1 action,Creatures in a 10-ft square (difficult terrain) must succeed on a Dex. save or fall prone.
+4,Greater Invisibility,,Concentration,Touch,"V,S",illusion,1 action,The target becomes invisible for 1 minute.
+5,Greater Restoration,,,Touch,"V,S,M",abjuration,1 action,"End one condition (charmed or petrified), one curse, any ability scores or hp reduction, or one exhaustion level."
+0,Green-Flame Blade,,,Self (5-ft radius),"V,M",evocation,1 action,"If a weapon attack hits, deals also fire damage equal to Ability.Mod to another creature (damage/lvl) within 5 ft."
+4,Guardian of Faith,,,30 ft,V,conjuration,1 action,Hostiles creatures within a 10-ft radius of the created guardian must succeed on a Dex. save or take 20 radiant damage.
+4,Guardian of Nature,,Concentration,Self,V,transmutation,1 bonus action,"Transform the caster into a Primal Beast (+10 ft, darkvision, ...) or a Great Tree (+10 hp, advantage to some rolls, ...)."
+6,Guards and Wards,,,Touch,"V,S,M",abjuration,10 minutes,Create a ward that protect a 50-ft square. Can set a password to immunize individuals.
+0,Guidance,,Concentration,Touch,"V,S",divination,1 action,The target can add 1d4 to one ability check of its choice.
+1,Guiding Bolt,,,120 ft,"V,S",evocation,1 action,"If the spell attack hits, deals 4d6 radiant damage (damage/lvl) and the next attack roll will have advantage."
+0,Gust,,,30 ft,"V,S",transmutation,1 action,Control air to move objects or creatures (Medium or smaller) or create harmless sensory effects.
+2,Gust of Wind,,Concentration,Self (60-ft line),"V,S,M",evocation,1 action,"Creatures on a 60-ft-long, 10-ft-wide line mus succeed on a Str. save or be pushed 15 ft away."
+1,Hail of Thorns,,Concentration,Self,V,conjuration,1 bonus action,Creatures in a 5-ft radius must succeed on a Dex. save or take 1d10 piercing damage (damage/lvl).
+5,Hallow,,,Touch,"V,S,M",evocation,24 hours,"Prevent celestials, elementals, fey, fiends, and undead to enter a 60-ft-radius area and protect/handicap the targets."
+4,Hallucinatory Terrain,,,300 ft,"V,S,M",illusion,10 minutes,Make a natural terrain looks like another type (for example a road becomes a swamp or a crevasse).
+6,Harm,,,60 ft,"V,S",necromancy,1 action,The target must succeed on a Con. save or take 14d6 necrotic damage. The spell can't kill it however.
+3,Haste,,Concentration,30 ft,"V,S,M",transmutation,1 action,"Target's speed is doubled. It also gains a +2 bonus to AC, advantage to Dex. saves and 1 additional action."
+6,Heal,,,60 ft,"V,S",evocation,1 action,"1 creature regains 70 hp and are cured of diseases, blindness, and deafness (+10 hp/lvl)."
+2,Healing Spirit,,Concentration,60 ft,"V,S",conjuration,1 bonus action,Creatures in touch with the spirit gain 1d6 hp (+1d6 hp/lvl).
+1,Healing Word,,,60 ft,V,evocation,1 bonus action,1 creature regains 1d4+Ability.Mod (+1d4 hp/lvl).
+2,Heat Metal,,Concentration,60 ft,"V,S,M",transmutation,1 action,Creatures in physical contact with the metal object take 2d8 fire damage (damage/lvl).
+1,Hellish Rebuke,,,60 ft,"V,S",evocation,1 reaction,The target must succeed on a Dex. save or take 2d10 fire damage (damage/lvl).
+6,Heroes' Feast,,,30 ft,"V,S,M",conjuration,10 minutes,"Produce a feast for 12 guests that cures diseases, immunizes to poison and increases hp by 2d10 for 24 hours."
+1,Heroism,,Concentration,Touch,"V,S",enchantment,1 action,The target is immune to being frightened and gains temporary hp equal to its Ability.Mod each turns (+1 creature/lvl).
+1,Hex,,Concentration,90 ft,"V,S,M",enchantment,1 bonus action,"If an attack hits, deals an extra 1d6 necrotic damage. Disadvantage on achosem ability check (duration/lvl)."
+5,Hold Monster,,Concentration,90 ft,"V,S,M",enchantment,1 action,Target must succeed on a Wis. save or be paralyzed (+1 creature/lvl).
+2,Hold Person,,Concentration,60 ft,"V,S,M",enchantment,1 action,The target must succeed on a Wis. save or be paralyzed (+1 creature/lvl).
+8,Holy Aura,,Concentration,Self,"V,S,M",abjuration,1 action,Targets in a 30-ft radius have advantage on saving throws. Other creatures have disadvantage on attack rolls against them.
+5,Holy Weapon,,Concentration,Touch,"V,S",evocation,1 bonus action,"The touched weapon shines, deals an extra 2d8 radiant damage, and can burst on a 30-ft radius (Save or 4d8 radiant)."
+3,Hunger of Hadar,,Concentration,150 ft,"V,S,M",conjuration,1 action,Creatures in a 20-ft-radius sphere take 2d6 cold damage et must succeed on a Dex. save or take 2d6 acid damage.
+1,Hunter's Mark,,Concentration,90 ft,V,divination,1 bonus action,The target take an extra 1d6 damage and caster has advantage on Wisdom (Perception/Survival) checks to find it (duration/lvl).
+3,Hypnotic Pattern,,Concentration,120 ft,"S,M",illusion,1 action,"Creatures in a 30-ft cube must succeed on a Wis. save or be charmed and incapacitated, with a speed of 0."
+1,Ice Knife,,,60 ft,"S,M",conjuration,1 action,"If the spell attack hits, deals 1d10 piercing damage + Dex. save or 2d6 cold damage (damage/lvl) within 5 ft."
+4,Ice Storm,,,300 ft,"V,S,M",evocation,1 action,"Creatures in a 20-ft-radius, 40-ft-high cylinder must succeed on a Dex. save or take 2d8 bludgeoning damage and 4d6 cold damage."
+1,Identify,Ritual,,Touch,"V,S,M",divination,1 minute,"The caster obtains properties of a magic item (attunement, charges) or knows if an item or a creature is affected by a spell."
+8,Illusory Dragon,,Concentration,120 ft,S,illusion,1 action,Creatures that see this illusory Huge dragon must succedd on a Wis. save or be frightened for 1 min.
+1,Illusory Script,Ritual,,Touch,"S,M",illusion,1 minute,Write a secret message that can only be read by a designated target or a creature with truesight.
+5,Immolation,,Concentration,90 ft,V,evocation,1 action,The target within 90 ft must succeed on a Dex. save or take 8d6 fire damage and 4d6 fire damage thereafter.
+9,Imprisonment,,,30 ft,"V,S,M",abjuration,1 minute,The target within 30 ft must succeed on a Wis. save or be held prisoner. The form is to choose from 6 options.
+8,Incendiary Cloud,,Concentration,150 ft,"V,S",conjuration,1 action,Creatures in a 20-ft-radius sphere must succeed on a Dex. save or take 10d8 fire damage.
+5,Infernal Calling,,Concentration,90 ft,"V,S,M",conjuration,1 minute,Summon 1 devil CR 6 unfriendly (CR +1/lvl).
+0,Infestation,,,30 ft,"V,S,M",conjuration,1 action,The target must succeed on a Con. save or take 1d6 poison damage and move 5 ft in a random direction (damage/lvl).
+1,Inflict Wounds,,,Touch,"V,S",necromancy,1 action,"If the spell attack hits, deals 3d10 necrotic damage (damage/lvl)."
+5,Insect Plague,,Concentration,300 ft,"V,S,M",conjuration,1 action,Creatures in a 20-ft-radius sphere must succeed on a Con. save or take 4d10 piercing damage (damage/lvl).
+3,Intellect Fortress,,Concentration,30 ft,V,abjuration,1 action,"A willing creature has resistance to psychic damage and advantage on Int., Wis. and Cha. saving throws (+1 creature/lvl)."
+6,Investiture of Flame,,Concentration,Self,"V,S",transmutation,1 action,Creatures in a 15-ft-long line must succeed on a Dex. save or take 4d8 fire damage. Immunity and resistance to caster.
+6,Investiture of Ice,,Concentration,Self,"V,S",transmutation,1 action,Creatures in a 15-ft cone must succeed on a Con. save or take 4d6 cold damage. Immunity and resistance to caster.
+6,Investiture of Stone,,Concentration,Self,"V,S",transmutation,1 action,Creatures in a 15-ft radius must succeed on a Dex. save or be knocked prone. Resistance and move across earth/stone.
+6,Investiture of Wind,,Concentration,Self,"V,S",transmutation,1 action,Creatures in a 15-ft cube must succeed on a Con. save or take 2d10 bludgeoning damage. Flying speed 60 ft.
+2,Invisibility,,Concentration,Touch,"V,S,M",illusion,1 action,The target becomes invisible during 1 hour or until she attacks or casts a spell (+1 creature/lvl).
+9,Invulnerability,,Concentration,Self,"V,S,M",abjuration,1 action,The caster gains immunity to all damage.
+1,Jump,,,Touch,"V,S,M",transmutation,1 action,The target gets a jump distance multiplicated by 3.
+2,Knock,,,60 ft,V,transmutation,1 action,"Unlock or unbar 1 object (door, chest, padlock, set of manacles, etc) or suppressed the arcane lock spell for 10 minutes."
+5,Legend Lore,,,Self,"V,S,M",divination,10 minutes,"The caster obtains information about a person, place, or object. The lore consist of tales or stories."
+4,Leomund's Secret Chest,,,Touch,"V,S,M",conjuration,1 action,Hide a chest (3 x 2 x 2 ft) and its contents in the Ethereal Plane.
+3,Leomund's Tiny Hut,Ritual,,Self (10-ft-radius sphere),"V,S,M",evocation,1 minute,Create a 10-ft-radius dome that can shelter and protect 9 Medium creatures with the caster.
+2,Lesser Restoration,,,Touch,"V,S",abjuration,1 action,"End one disease or one condition (blinded, deafened, paralyzed, or poisoned) on 1 creature."
+2,Levitate,,Concentration,60 ft,"V,S,M",transmutation,1 action,1 creature or object that weighs up to 500 pounds rises vertically up to 20 ft then remains suspended.
+3,Life Transference,,,30 ft,"V,S",necromancy,1 action,The caster takes 4d8 necrotic damage and another creature gains twice the amount (+1d8 hp/lvl).
+0,Light,,,Touch,"V,M",evocation,1 action,Make an object to shed bright light in a 20-ft radius and dim light in an additional 20-ft radius.
+3,Lightning Arrow,,Concentration,Self,"V,S",transmutation,1 bonus action,"If the attack hits, deals 4d8 Iightning damage. Creatures within 10 ft must succeed on a Dex. save or take 2d8 lightning damage."
+3,Lightning Bolt,,,Self (100-ft line),"V,S,M",evocation,1 action,"Creatures on a 100-ft-long, 5-ft-wide line must succeed on a Dex. save or take 8d6 lightning damage (damage/lvl)."
+0,Lightning Lure,,,Self (15-ft radius),V,evocation,1 action,The target must succeed on a Str. save or take 1d8 lightning damage and be pulled up to 10 ft.
+2,Locate Animals or Plants,Ritual,,Self,"V,S,M",divination,1 action,Give the direction and distance to a kind of beast or plant within 5 miles.
+4,Locate Creature,,Concentration,Self,"V,S,M",divination,1 action,The caster senses the direction in which a familiar creature is within a 1000-ft radius.
+2,Locate Object,,Concentration,Self,"V,S,M",divination,1 action,"The caster senses the direction to the location of an objet you are familiar with, within a 1000 ft radius."
+1,Longstrider,,,Touch,"V,S,M",transmutation,1 action,The target gets a speed increased by 10 ft (+1 creature/lvl).
+8,Maddening Darkness,,Concentration,150 ft,"V,M",evocation,1 action,Creatures in a 60-ft-radius sphere of darkness must succeed on a Wis. save or take 8d8 psychic damage.
+5,Maelstrom,,Concentration,120 ft,"V,S,M",evocation,1 action,Creatures in a 30-ft radius must succeed on a Str. save or take 6d6 bludgeoning damage and be pulled towards the center.
+1,Mage Armor,,,Touch,"V,S,M",abjuration,1 action,"The target, willing and not wearing armor, gets an AC equal to 13+Dex.Mod."
+0,Mage Hand,,,30 ft,"V,S",conjuration,1 action,"Create a spectral hand that can in a 30-ft radius manipulate an object, open a door, stow an item, etc."
+3,Magic Circle,,,10 ft,"V,S,M",abjuration,1 minute,"Create a 10-ft-radius, 20-ft-tall cylinder that protect from celestials, elementals, fey, fiends, and/or undead (+1 h/lvl)."
+6,Magic Jar,,,Self,"V,S,M",necromancy,1 minute,The caster projects his soul into an urn and then returns to his body or possesses a humanoid body.
+1,Magic Missile,,,120 ft,"V,S",evocation,1 action,3 missiles deal automatically 1d4+1 force damage each to one or several creatures (+1 missile/lvl).
+2,Magic Mouth,Ritual,,30 ft,"V,S,M",illusion,1 minute,Creates a magical mouth that will repeat a message of up to 25 words when a trigger condition is met.
+0,Magic Stone,,,Touch,"V,S",transmutation,1 bonus action,Up to 3 pebbles deal 1d6 + Ability.Mod bludgeoning damage if the spell attack hits.
+2,Magic Weapon,,Concentration,Touch,"V,S",transmutation,1 bonus action,Turn a weapon into a +1 magic weapon for attack rolls and damage rolls (+2 or +3 bonus/lvl).
+3,Major Image,,Concentration,120 ft,"V,S,M",illusion,1 action,"Create the image of an animated object or creature, with sounds and smells (without concentration/lvl)."
+5,Mass Cure Wounds,,,60 ft,"V,S",evocation,1 action,Up to 6 creatures regain 3d8+Spell.Ability.Mod (+1d8 hp/lvl).
+9,Mass Heal,,,60 ft,"V,S",evocation,1 action,"Several creatures regain a total of 700 ph and are cured of diseases, blindness, and deafness."
+3,Mass Healing Word,,,60 ft,V,evocation,1 bonus action,Up to 6 creatures regain 1d4+Ability.Mod (+1d4 hp/lvl).
+9,Mass Polymorph,,Concentration,120 ft,"V,S,M",transmutation,1 action,Transform up to 10 creatures into new beast forms whose CR/level are equal to or less than the target's CR/level.
+6,Mass Suggestion,,,60 ft,"V,M",enchantment,1 action,Up to 12 targets must succeed on a Wis. save or follow the suggestion given by the caster (duration/lvl).
+2,Maximillian's Earthen Grasp,,Concentration,30 ft,"V,S,M",transmutation,1 action,The target must succeed on a Str. save or take 2d6 bludgeoning damage and be restrained.
+8,Maze,,Concentration,60 ft,"V,S",conjuration,1 action,Banish a creature into a labyrinthine demiplane. Intelligence check to escape before the end of the spell.
+3,Meld into Stone,Ritual,,Touch,"V,S",transmutation,1 action,The caster can penetrate the stone.
+2,Melf's Acid Arrow,,,90 ft,"V,S,M",evocation,1 action,"If the spell attack hits, deals 4d4 acid damage, then 2d4 acid damage on the next round (damage/lvl)."
+3,Melf's Minute Meteors,,Concentration,Self,"V,S,M",evocation,1 action,Creatures within 5 ft must succeed on a Dex.save or take 2d6 fire damage for each of the 6 meteors (+2 meteors/lvl).
+0,Mending,,,Touch,"V,S,M",transmutation,1 minute,"Repair break or tear in an object (broken chain link, two halves of a broken key, torn cloak, leaking wineskin, etc)."
+6,Mental Prison,,Concentration,60 ft,S,illusion,1 action,The target must succeed on an Int. save or take 5d10 psychic damage and believe to be surrounded by fire or other hazard.
+0,Message,,,120 ft,"V,S,M",transmutation,1 action,The caster whispers a message to a creature within 120 ft who will be the only one to hear it. It can reply the same way.
+9,Meteor Swarm,,,1 mile,"V,S",evocation,1 action,Creatures in a 40-ft-radius sphere must succeed on a Dex. save or take 20d6 fire damage and 20d6 bludgeoning damage.
+8,Mighty Fortress,,,1 mile,"V,S,M",conjuration,1 minute,Let erupt a forteresse of stone on a 120 x 120 ft area for 7 days.
+8,Mind Blank,,,Touch,"V,S",abjuration,1 action,"The target is immune to psychic damage, reading thoughts, divination spells, and the charmed condition."
+0,Mind Sliver,,,60 ft,V,enchantment,1 action,The target must succeed on an Int. save or take 1d6 psychic damage and substract -1d4 on it's next saving throw (damage/lvl).
+2,Mind Spike,,Concentration,60 ft,S,divination,1 action,The target must succeed on a Wis. save or take 3d8 psychic damage (damage/lvl).
+0,Minor Illusion,,,30 ft,"S,M",illusion,1 action,Create a sound or an immobile image of an object no larger than a 5-ft cube.
+7,Mirage Arcane,,,Sight,"V,S",illusion,10 minutes,"Tansform the appearance (sight, sound, smell and feel) of a 1 mile square."
+2,Mirror Image,,,Self,"V,S",illusion,1 action,"Create 3 illusory duplicates of the caster, each of them having a CA equal to 10 + Dex.Mod and being destroyed if they are hit."
+5,Mislead,,Concentration,Self,S,illusion,1 action,"The caster becomes invisible and creates a double that moves, acts and speaks. The caster can see and hear through this double."
+2,Misty Step,,,Self,V,conjuration,1 bonus action,The caster is teleported up to 30 feet.
+5,Modify Memory,,Concentration,30 ft,"V,S",enchantment,1 action,The target must succeed on a Wis. save or be charmed and its memory altered (seniority of memories/lvl).
+0,Mold Earth,,,30 ft,S,transmutation,1 action,"Control dirt or stone to excavate, shape, turn it into difficult terrain, etc."
+2,Moonbeam,,Concentration,120 ft,"V,S,M",evocation,1 action,"Creatures in a 5-ft-radius, 40-ft-high cylinder must succeed on a Con. save or take 2d10 radiant damage (damage/lvl)."
+4,Mordenkainen's Faithful Hound,,,30 ft,"V,S,M",conjuration,1 action,Summon an invisible watchdog that barks when a creature approaches and attacks it (4d8 piercing damage).
+7,Mordenkainen's Magnificent Mansion,,,300 ft,"V,S,M",conjuration,1 minute,Create an extradimensional mansion with all the comforts that can shelter the caster and other creatures.
+4,Mordenkainen's Private Sanctum,,,120 ft,"V,S,M",abjuration,10 minutes,Create a secure cube up to 100 ft on each side. The type of protection is to choose (+100 ft on each side/lvl).
+7,Mordenkainen's Sword,,Concentration,60 ft,"V,S,M",evocation,1 action,"If the spell attack hits, deals 3d10 force damage. The sword can move."
+6,Move Earth,,Concentration,120 ft,"V,S,M",transmutation,1 action,"Shape dirt, sand, or clay, but not stone (raise, lower, flatten, create a trench, etc) in a 40-ft square in 10 min."
+5,Negative Energy Flood,,,60 ft,"V,M",necromancy,1 action,"The target must succeed on a Con. save or take 5d12 necrotic damage. Killed that way, the target rises as a zombi."
+3,Nondetection,,,Touch,"V,S,M",abjuration,1 action,Protect a creature or an object from any divination magic or magical scrying.
+2,Nystul's Magic Aura,,,Touch,"V,S,M",illusion,1 action,Reveal false information about a creature or an object that would be the target of a divination spell.
+6,Otiluke's Freezing Sphere,,,300 ft,"V,S,M",evocation,1 action,Creatures in a 60-ft-radius sphere must succeed on a Con. save or take 10d6 cold damage (damage/lvl).
+4,Otiluke's Resilient Sphere,,Concentration,30 ft,"V,S,M",evocation,1 action,The Large size or smaller target must succeedd on a Dex. save or be enclosed for the spell duration.
+6,Otto's Irresistible Dance,,Concentration,30 ft,V,enchantment,1 action,The target must succeed on a Wis. save or dance (disadvantage on Dex. save and attack rolls).
+2,Pass without Trace,,Concentration,Self,"V,S,M",abjuration,1 action,The caster and his allies within 30 ft get a +10 bonus to Dexterity (Discretion) checks and leave behind no tracks or traces.
+5,Passwall,,,30 ft,"V,S,M",transmutation,1 action,"Open a 5-ft wide, 8-ft tall, 20-ft deep passage through stone, wood or plaster."
+2,Phantasmal Force,,Concentration,60 ft,"V,S,M",illusion,1 action,Tha target must succeed on an Int. save or perceive as real an object or creature created by the caster (with sound).
+4,Phantasmal Killer,,Concentration,120 ft,"V,S",illusion,1 action,The target must succeed on a Wis. save or be frightened then take 4d10 psychic damage (damage/lvl) on each of it's turn.
+3,Phantom Steed,Ritual,,30 ft,"V,S",illusion,1 minute,Create a quasi-real Large horselike creature and everything to mount it.
+6,Planar Ally,,,60 ft,"V,S",conjuration,10 minutes,"Summon a celestial, elemental, or fiend that will help the caster in exchange for payment (1000 gp/h, sacrifice, quest, etc)."
+5,Planar Binding,,,60 ft,"V,S,M",abjuration,1 hour,"The target (celestial, elemental, fey, or fiend) must succeed on a Cha. save or serve the caster (duration/lvl)."
+7,Plane Shift,,,Touch,"V,S,M",conjuration,1 action,"The caster and up to 8 creatures are transported to another plane of existence, or a creature is banished (Cha. save)."
+3,Plant Growth,,,150 ft,"V,S",transmutation,1 action or 8 hours,"Plants in the area grow vigorously, or over a year the plants produce twice the normal amount of food."
+0,Poison Spray,,,10 ft,"V,S",conjuration,1 action,The target must succeed on a Con. save or take 1d12 poison damage (damage/lvl).
+4,Polymorph,,Concentration,60 ft,"V,S,M",transmutation,1 action,Transform a target into a new beast form whose CR/level is equal to or less than the target's CR/level.
+9,Power Word Heal,,,Touch,"V,S",evocation,1 action,"The target regains all its hp and charmed, frightened, paralyzed, and stunned conditions end."
+9,Power Word Kill,,,60 ft,V,enchantment,1 action,The target (100 hp or fewer) dies!
+7,Power Word Pain,,,60 ft,V,enchantment,1 action,"The target (100 hp max) has its speed reduced to 10 ft, disadvantage to d20 rolls and has to make a Con. save to cast spells."
+8,Power Word Stun,,,60 ft,V,enchantment,1 action,The target (150 hp or fewer) is stunned until it succeeds on a Con. save.
+2,Prayer of Healing,,,30 ft,V,evocation,10 minutes,Up to 6 creatures regain 2d8+Ability.Mod (+1d8 hp/lvl).
+0,Prestidigitation,,,10 ft,"V,S",transmutation,1 action,"Minor magical trick (sensory effect, light a torch, clean an object, warm, make a symbol appear, create a trinket, etc)."
+0,Primal Savagery,,,Self,S,transmutation,1 action,"If the melee spell attack hits, deals 1d10 acid damage (damage/lvl)."
+6,Primordial Ward,,Concentration,Self,"V,S",abjuration,1 action,"The caster gets resistance to acid, cold, fire, lightning, and thunder damage or immunity to a single type."
+7,Prismatic Spray,,,Self (60-ft cone),"V,S",evocation,1 action,Creatures in a 60-ft cone must succeed on a Dex. save or take 10d6 damage of a randomly determined type.
+9,Prismatic Wall,,,60 ft,"V,S",abjuration,1 action,Create a multi-layered wall that inflicts different effects and damage depending on the layer.
+0,Produce Flame,,,Self,"V,S",conjuration,1 action,"If the spell attack hits, deals 1d8 fire damage (damage/lvl). Shed bright light in 10 ft and dim light in additional 10 ft."
+6,Programmed Illusion,,,120 ft,"V,S,M",illusion,1 action,"Create the image of an animated object or creature, with sounds, for 5 min, with a triggering condition."
+7,Project Image,,Concentration,500 miles,"V,S,M",illusion,1 action,"Create a copy of the caster that mimics him, moves and emits sounds. The caster can see and hear through this double."
+3,Protection from Energy,,Concentration,Touch,"V,S",abjuration,1 action,"The target gains resistance to one damage type (acid, cold, fire, lightning, or thunder)."
+1,Protection from Evil and Good,,Concentration,Touch,"V,S,M",abjuration,1 action,"The target is protected (disadvantage on attack rolls) against aberrations, celestials, elementals, fey, fiends, and undead."
+2,Protection from Poison,,,Touch,"V,S",abjuration,1 action,"Neutralize 1 poison in one creature, give advantage on saving throws againt being poisoned, and resistance to poison damage."
+9,Psychic Scream,,,90 ft,S,enchantment,1 action,Up to 10 creatures must succeed on an Int. save or take 14d6 psychic damage.
+1,Purify Food and Drink,Ritual,,10 ft,"V,S",transmutation,1 action,Purified and rendered free of poison and disease nonmagical food and drink in a 5-ft-radius sphere.
+2,Pyrotechnics,,,60 ft,"V,S",transmutation,1 action,Target flame within 60-ft and make them explode (Con. save or blinded) or spread smoke (heavily obscured).
+5,Raise Dead,,,Touch,"V,S,M",necromancy,1 hour,Take back to life (1 hp) a creature died for no longer than 10 days. Doesn't restore missing body parts.
+5,Rary's Telepathic Bond,Ritual,,30 ft,"V,S,M",divination,1 action,Create a telepathic link between up to 8 people in a 30-ft radius for 1 hour.
+2,Ray of Enfeeblement,,Concentration,60 ft,"V,S",necromancy,1 action,"If the spell attack hits, the target deals only half damage with a weapon attack that use Strength (Con. save)."
+0,Ray of Frost,,,60 ft,"V,S",evocation,1 action,"If the spell attack hits, deals 1d8 cold damage (damage/lvl) and the target's speed is reduced by 10 ft."
+1,Ray of Sickness,,,60 ft,"V,S",necromancy,1 action,"If the attack hits, deals 2d8 poison damage (damage/lvl) and the target can be poisoned (Con. save)."
+7,Regenerate,,,Touch,"V,S,M",transmutation,1 minute,The target regains 4d8+15 hp then 1 hp per round and its severed members are restored.
+5,Reincarnate,,,Touch,"V,S,M",transmutation,1 hour,Reincarnate the soul of a humanoid died for no longer than 10 days. The race of the new body is determined at random.
+3,Remove Curse,,,Touch,"V,S",abjuration,1 action,End all curses affecting one creature or object.
+0,Resistance,,Concentration,Touch,"V,S,M",abjuration,1 action,The target can add 1d4 to one saving throw of its choice.
+7,Resurrection,,,Touch,"V,S,M",necromancy,1 hour,Take back to life (all hp) a creature died for no longer than 100 years (except of old age). Restore any missing body parts.
+7,Reverse Gravity,,Concentration,100 ft,"V,S,M",transmutation,1 action,"Invert gravity in a 50-ft-radius, 100-ft-high cylinder."
+3,Revivify,,,Touch,"V,S,M",necromancy,1 action,Take back to 1 hp a creature that has died within the last minute (except of old age).
+2,Rope Trick,,,Touch,"V,S,M",transmutation,1 action,Vertically raise a rope that lead to an extradimensional space that can hold 8 Medium creatures.
+0,Sacred Flame,,,60 ft,"V,S",evocation,1 action,The target must succeed on a Dex. save or take 1d8 radiant damage (damage/lvl).
+1,Sanctuary,,,30 ft,"V,S,M",abjuration,1 bonus action,The protected creature forces a Wis. save to his aggressor in case of attack or offensive spell to no longer be the target.
+6,Scatter,,,30 ft,V,conjuration,1 action,Up to 5 creatures are teleported (Wis. save if unwilling) within 120 ft.
+2,Scorching Ray,,,120 ft,"V,S",evocation,1 action,"If the spell attacks hit, 3 rays deal 2d6 fire damage each (+1 ray/lvl)."
+5,Scrying,,Concentration,Self,"V,S,M",divination,10 minutes,Allow you to see and hear a specific creature (can also target a location) on the same plane (Wis. save).
+1,Searing Smite,,Concentration,Self,V,evocation,1 bonus action,"If the attack hits, deals an extra 1d6 fire damage and ignite the target (damage/lvl)."
+2,See Invisibility,,,Self,"V,S,M",divination,1 action,"The caster sees invisible creatures and objects, and into the Ethereal Plane."
+5,Seeming,,,30 ft,"V,S",illusion,1 action,Change physical appearance as well as clothing and equipment of targets (saving throw for unwilling).
+3,Sending,,,Unlimited,"V,S,M",evocation,1 action,"Send a 25-words message to a creature you are familiar with, regardless of the distance or the plan. It can answer it."
+7,Sequester,,,Touch,"V,S,M",transmutation,1 action,Protect a willing creature (who becomes invisible and unconscious) or an object from divination spells.
+2,Shadow Blade,,Concentration,Self,"V,S",illusion,1 bonus action,"Create a weapon that deals 2d8 psychic damage with the finesse, light, and thrown properties (damage/lvl)."
+4,Shadow of Moil,,Concentration,Self,"V,S,M",necromancy,1 action,Tha caster gains resistance to radiant damage and deals 2d8 necrotic damage to creatures that hit him with an attack.
+0,Shape Water,,,30 ft,S,transmutation,1 action,"Control water to obtain various minor effects such as changing color, freezing, changing the flow, etc."
+9,Shapechange,,Concentration,Self,"V,S,M",transmutation,1 action,The caster takes the form of a creature he has seen at least once with a CR equal to its level or lower.
+2,Shatter,,,60 ft,"V,S,M",evocation,1 action,Creatures in a 10-ft-radius sphere must succeed on a Con. save or take 3d8 thunder damage (damage/lvl).
+1,Shield,,,Self,"V,S",abjuration,1 reaction,"In reaction, the caster gains a +5 bonus to AC and take no damage from the magic missile spell."
+1,Shield of Faith,,Concentration,60 ft,"V,S,M",abjuration,1 bonus action,The target gets a +2 bonus to AC.
+0,Shillelagh,,,Touch,"V,S,M",transmutation,1 bonus action,Make magical a wooden weapon. Its damage become a d8 and the caster can use his spellcasting ability instead of Strength.
+0,Shocking Grasp,,,Touch,"V,S",evocation,1 action,"If the spell attack hits, deals 1d8 lightning damage (damage/lvl) and the target can't take reactions."
+4,Sickening Radiance,,Concentration,120 ft,"V,S",evocation,1 action,Creatures in a 30-ft radius must succeed on a Con. save or take 4d10 radiant damage and one level of exhaustion.
+2,Silence,Ritual,Concentration,120 ft,"V,S",illusion,1 action,Block all sounds within a 20-ft-radius sphere.
+1,Silent Image,,Concentration,60 ft,"V,S,M",illusion,1 action,Create the image of an object or a creature (without sound and no larger than a 15-ft cube) and lets it move.
+7,Simulacrum,,,Touch,"V,S,M",illusion,12 hours,"Create a duplicate of a beast or humanoid with the same abilities, half of the hp and without equipment."
+5,Skill Empowerment,,Concentration,Touch,"V,S",transmutation,1 action,The target doubles its proficiency bonus for one skill.
+2,Skywrite,Ritual,Concentration,Sight,"V,S",transmutation,1 action,Create up to 10 words in the clouds.
+1,Sleep,,,90 ft,"V,S,M",enchantment,1 action,"5d8 hp of creatures fall unconscious, starting with the creature with the lowest current hp (+2d8 hp/lvl)."
+3,Sleet Storm,,Concentration,150 ft,"V,S,M",conjuration,1 action,"Creatures in a 20-ft-radius, 20-ft-tall cylinder (heavily obscured) must succeed on a Dex. save or fall prone."
+3,Slow,,Concentration,120 ft,"V,S,M",transmutation,1 action,"Up to 6 targets must succeed on a Wis. save, or have their speed and actions reduced and -2 to CA and Dex. saves."
+1,Snare,,,Touch,"S,M",abjuration,1 minute,Create a magic trap (Dex. save or the Small to Large size creature is hoisted into the air).
+2,Snilloc's Snowball Swarm,,,90 ft,"V,S,M",evocation,1 action,Creatures in a 5-ft-radius sphere must succeed on a Dex. save or take 3d6 cold damage (damage/lvl).
+6,Soul Cage,,,60 ft,"V,S,M",necromancy,1 reaction,"Snatch a soul to regain hp, ask it a question, get advantage to a roll, or see a place it saw in life."
+0,Spare the Dying,,,Touch,"V,S",necromancy,1 action,1 living creature with 0 hit points becomes stable.
+1,Speak with Animals,Ritual,,Self,"V,S",divination,1 action,The caster communicates with beats that can share information or help.
+3,Speak with Dead,,,10 ft,"V,S,M",necromancy,1 action,Allow a corpse that still has a mouth and is not an undead to answer 5 questions to the caster.
+3,Speak with Plants,,,Self (30-ft radius),"V,S",transmutation,1 action,"The caster can communicate with plants within 30 ft, and turns difficult terrain into ordinary terrain or vice versa."
+2,Spider Climb,,Concentration,Touch,"V,S,M",transmutation,1 action,The target can move along vertical surfaces while leaving its hands free and gains climbing speed.
+2,Spike Growth,,Concentration,150 ft,"V,S,M",transmutation,1 action,Creatures in a 20-ft radius (difficult terrain) take 2d4 piercing damage for every 5 ft of movement.
+3,Spirit Guardians,,Concentration,Self (15-ft radius),"V,S,M",conjuration,1 action,Targets in a 15-ft radius must succeed on a Wis. save or take 3d8 radiant or necrotic damage (damage/lvl).
+3,Spirit Shroud,,Concentration,Self,"V,S",necromancy,1 bonus action,"If the attack hits, deals an extra 1d8 radiant, necrotic, or cold damage. Target can't regain hp this turn (damage/lvl)."
+2,Spiritual Weapon,,,60 ft,"V,S",evocation,1 bonus action,"If the spell attack hits, deals 1d8+Ability.Mod force damage (damage/lvl). A bonus action allows another attack."
+4,Staggering Smite,,Concentration,Self,V,evocation,1 bonus action,"If the attack hits, deals an extra 4d6 pyschic damage and the target must succeed on a Wis. save or have a disadvantage."
+5,Steel Wind Strike,,,30 ft,"S,M",conjuration,1 action,"If the spell attack hits, deals 6d10 force damage to 5 creatures, then the caster teleports."
+3,Stinking Cloud,,Concentration,90 ft,"V,S,M",conjuration,1 action,Creatures in a 20-ft-radius sphere must succeed on a Con. save or spend their action that turn retching and reeling.
+4,Stone Shape,,,Touch,"V,S,M",transmutation,1 action,"Give a stone no more than 5 ft in any dimension any shape, or create an opening in it."
+4,Stoneskin,,Concentration,Touch,"V,S,M",abjuration,1 action,"The target gets resistance to nonmagical bludgeoning, piercing, and slashing damage."
+9,Storm of Vengeance,,Concentration,Sight,"V,S",conjuration,1 action,Creatures in a 360-ft radius must succeed on a Con. save or be deafened and suffer various damage and effects.
+4,Storm Sphere,,Concentration,150 ft,"V,S",evocation,1 action,Creatures in a 20-ft-radius sphere must succeed on a Str. save or take 2d6 bludgeoning damage (damage/lvl).
+2,Suggestion,,Concentration,30 ft,"V,M",enchantment,1 action,The target must succeed on a Wis. save or follow the suggestion given by the caster in one or two sentences.
+4,Summon Aberration,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 aberrant spirit (beholderkin, slaad, or star spawn), friendly (stat block/your lvl)."
+2,Summon Beast,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 bestial spirit (air, land, or water), friendly (stat block/your lvl)."
+5,Summon Celestial,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 celestial spirit (avenger or defender), friendly (stat block/your lvl)."
+4,Summon Construct,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 spirit of a construct (clay, metal, or stone), friendly (stat block/your lvl)."
+4,Summon Elemental,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 elemental spirit (air, earth, fire, or water), friendly (stat block/your lvl)."
+3,Summon Fey,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 fey spirit (fuming, mirthful, or tricksy), friendly (stat block/your lvl)."
+6,Summon Fiend,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 fiendish spirit (demon, devil, or yugoloth), friendly (stat block/your lvl)."
+4,Summon Greater Demon,,Concentration,60 ft,"V,S,M",conjuration,1 action,"Summon 1 demon of CR 5, friendly (CR +1/lvl)."
+3,Summon Lesser Demons,,Concentration,60 ft,"V,S,M",conjuration,1 action,"Summon 2 demons of CR 1 to 8 demons of CR 1/4, unfriendly (nbr of creatures/lvl)."
+3,Summon Shadowspawn,,Concentration,90 ft,"V,S,M",conjuration,1 action,"Summon 1 shadowy spirit (fury, despair, or fear), friendly (stat block/your lvl)."
+3,Summon Undead,,Concentration,90 ft,"V,S,M",necromancy,1 action,"Summon 1 undead spirit (ghostly, putrid, or skeletal), friendly (stat block/your lvl)."
+6,Sunbeam,,Concentration,Self (60-ft line),"V,S,M",evocation,1 action,"Creatures on a 5-ft-wide, 60-ft-long line must succeed on a Con. save or take 6d8 radiant damage and be blinded."
+8,Sunburst,,,150 ft,"V,S,M",evocation,1 action,Creatures in a 60-ft radius must succeed on a Con. save or take 12d6 radiant damage and be blinded for 1 min.
+5,Swift Quiver,,Concentration,Touch,"V,S,M",transmutation,1 bonus action,"Make a quiver to produce an endless supply of nonmagical ammunition, allowing 2 attacks per round with a bonus action."
+0,Sword Burst,,,Self (5-ft radius),V,conjuration,1 action,Creatures in a 5-ft radius must succeed on a Dex. save or take 1d6 force damage (damage/lvl).
+7,Symbol,,,Touch,"V,S,M",abjuration,1 minute,"Set the trigger and the effect of a glyph on an object (death, discord, fear, hopelessness, insanity, pain, sleep, etc)."
+5,Synaptic Static,,,120 ft,"V,S",enchantment,1 action,Creatures in a 20-ft radius must succeed on an Int. save or take 8d6 psychic damage.
+1,Tasha's Caustic Brew,,Concentration,Self (30-ft line),"V,S,M",evocation,1 action,Creatures in a 30 ft long 5 ft wide line must succeed on a Dex. save or take 2d4 acid damage each turn (+2d4/lvl).
+1,Tasha's Hideous Laughter,,Concentration,30 ft,"V,S,M",enchantment,1 action,"The target must succeed on a Wis. save or falls into fits of laughter, fall prone and becoming incapacitated."
+2,Tasha's Mind Whip,,,90 ft,V,enchantment,1 action,Target must succeed on an Int. save or take 3d6 psychic damage and choose to move or take an action next turn (+1 creature/lvl).
+6,Tasha's Otherworldly Guise,,Concentration,Self,"V,S,M",transmutation,1 bonus action,"Immune to fire/poison or radiant/necrotic damage, 40 ft flying speed, +2 AC bonus, weapons are magical, 2 attacks."
+5,Telekinesis,,Concentration,60 ft,"V,S",transmutation,1 action,"Move a creature (Huge or smaller) or object (up to 1,000 pounds) by thought in case of successful contest."
+8,Telepathy,,,Unlimited,"V,S,M",evocation,1 action,Comunicate via telepathy with a known and willing creature on the same plane of existence.
+7,Teleport,,,10 ft,V,conjuration,1 action,The caster and 8 creatures are teleported anywhere on the same plane. Risk of failure depending on the destination familiarity.
+5,Teleportation Circle,,,10 ft,"V,M",conjuration,1 minute,Create a circle that allows anyone to be teleported to another teleportation circle known to the caster.
+7,Temple of the Gods,,,120 ft,"V,S,M",conjuration,1 hour,Let erupt a temple dedicated to a god on a 120 x 120 ft area for 1 day.
+1,Tenser's Floating Disk,Ritual,,30 ft,"V,S,M",conjuration,1 action,Create a floating 3-ft-diameter disk that can support up to 500 pounds and follows the caster.
+6,Tenser's Transformation,,Concentration,Self,"V,S,M",transmutation,1 action,"The caster gains 50 hp, advantage to attack rolls, an extra 2d12 force damage, martial proficiencies and two attacks per round."
+0,Thaumaturgy,,,30 ft,V,transmutation,1 action,Create various minor effects to impress or distract creatures.
+0,Thorn Whip,,,30 ft,"V,S,M",transmutation,1 action,"If the attack hits, deals 1d6 piercing damage and pull the target (Larger or smaller) up to 10 ft (damage/lvl)."
+3,Thunder Step,,,90 ft,V,conjuration,1 action,The caster teleports and creatures within 10 ft must succeed on a Con. save or take 3d10 thunder damage.
+0,Thunderclap,,,5 ft,S,evocation,1 action,Creatures within 5 ft must succeed on a Con. save or take 1d6 thunder damage (damage/lvl).
+1,Thunderous Smite,,Concentration,Self,V,evocation,1 bonus action,"If the attack hits, deals an extra 2d6 thunder damage, and target must succeed on a Str. save or be pushed and knocked prone."
+1,Thunderwave,,,Self (15-ft cube),"V,S",evocation,1 action,Creatures in a 15-ft cube must succeed on a Con. save or take 2d8 thunder damage (damage/lvl).
+3,Tidal Wave,,,120 ft,"V,S,M",conjuration,1 action,Creatures in an 30 x 10 x 10 ft area must succeed on Dex. save or take 4d8 bludgeoning damage and be knocked prone.
+9,Time Stop,,,Self,V,transmutation,1 action,Stop the time during 1d4+1 turns for everyone except for the caster.
+3,Tiny Servant,,,Touch,"V,S",transmutation,1 minute,Transform one Tiny object into a creature with arms and legs under the caster control (+2 objects/lvl).
+0,Toll the Dead,,,60 ft,"V,S",necromancy,1 action,The target must succeed on a Wis. save or take 1d8 or 1d12 necrotic damage (damage/lvl).
+3,Tongues,,,Touch,"V,M",divination,1 action,The target understands and speaks any spoken language it hears.
+5,Transmute Rock,,,120 ft,"V,S,M",transmutation,1 action,Transform a 40-ft cube of rock into mud or of mud into rock.
+6,Transport via Plants,,,10 ft,"V,S",conjuration,1 action,The caster can move from one plant to another plant (Large or larger) using 5 ft.
+5,Tree Stride,,Concentration,Self,"V,S",conjuration,1 action,The caster can move from one tree to another tree of the same kind (500 ft max between both) using 5 ft.
+9,True Polymorph,,Concentration,30 ft,"V,S,M",transmutation,1 action,Transform a creature or object into a new form (creature <-> object) of FP/level at most equal to the FP/level of the crea
+9,True Resurrection,,,Touch,"V,S,M",necromancy,1 hour,"Take back to life (all hp) a creature died for no longer than 200 years (except of old age), even without the original body."
+6,True Seeing,,,Touch,"V,S,M",divination,1 action,"The target gets truesight, sees magic secret doors and in the Ethereal Plane."
+0,True Strike,,Concentration,30 ft,S,divination,1 action,The caster gains advantage on his first attack roll against a target.
+8,Tsunami,,Concentration,Sight,"V,S",conjuration,1 minute,"Creatures in a 300-ft-long, 300-ft-high, 50-ft-thick area must succeed on a Str. save or take 6d10 bludgeoning damage."
+1,Unseen Servant,Ritual,,60 ft,"V,S,M",conjuration,1 action,"Create an invisible servant who performs simple tasks (bring something back, clean up, maintain a fire, serve at table, etc)."
+3,Vampiric Touch,,Concentration,Self,"V,S",necromancy,1 action,"If the spell attack hits, deals 3d6 necrotic damage (damage/lvl) and the caster regains 50% of his hp."
+0,Vicious Mockery,,,60 ft,V,enchantment,1 action,The target must succeed on a Wis. save or take 1d4 psychic damage and have disadvantage on its attack roll (damage/lvl).
+4,Vitriolic Sphere,,,150 ft,"V,S,M",evocation,1 action,Creatures within 20-ft must succeed on a Dex. save or take 10d4 acid damage (damage/lvl) then 5d4 acid damage on its turn.
+4,Wall of Fire,,Concentration,120 ft,"V,S,M",evocation,1 action,Create a 60 x 20 x 1 ft wall of fire. Creatures inside or within 10ft of one side of the wall take 5d8 fire damage (damage/lvl).
+5,Wall of Force,,Concentration,120 ft,"V,S,M",evocation,1 action,Create a physically insurmountable wall of force (ten 10-ft panels) immune to all types of damage.
+6,Wall of Ice,,Concentration,120 ft,"V,S,M",evocation,1 action,Create a wall of ice (ten 10-ft panels) that can be damaged and can inflict 5d6 cold damage if passed through (damage/lvl).
+5,Wall of Light,,Concentration,120 ft,"V,S,M",evocation,1 action,"Create a 60-ft-long, 10-ft-high, 5-ft-thick wall of light that can deal 4d8 radiant damage to one target (damage/lvl)."
+3,Wall of Sand,,Concentration,90 ft,"V,S,M",evocation,1 action,"Create a 30-ft-long, 10-ft-high, 10-ft-thick sand wall that blocks line of sight (blinded) but not movement."
+5,Wall of Stone,,Concentration,120 ft,"V,S,M",evocation,1 action,Create a nonmagical wall of stone (ten 10-ft panels) that can be damaged.
+6,Wall of Thorns,,Concentration,120 ft,"V,S,M",conjuration,1 action,"Create an 60-ft-long, 10-ft-high, 5-ft-thick wall of brush that slows movement and can inflict 7d8 piercing damage (damage/lvl)."
+3,Wall of Water,,Concentration,60 ft,"V,S,M",evocation,1 action,"Create a 30-ft-long, 10-ft-high, 1-ft-thick wall of water that gives disadvantage on ranged attacks and halved fire damage."
+2,Warding Bond,,,Touch,"V,S,M",abjuration,1 action,"The target gains +1 on AC, +1 on saving throws and resistance to all damage, but the caster shares damage."
+2,Warding Wind,,Concentration,Self,V,evocation,1 action,"Create strong wind (20 miles/h) in a 10-ft radius (deafen, extinguish flames, hedge out gas, difficult terrain, etc)."
+3,Water Breathing,Ritual,,30 ft,"V,S,M",transmutation,1 action,Up to 10 creatures gets the ability to breathe underwater.
+3,Water Walk,Ritual,,30 ft,"V,S,M",transmutation,1 action,"Up to 10 creatures can move on a liquid surface (water, acid, mud, lava, etc) as if it were harmless solid ground."
+4,Watery Sphere,,Concentration,90 ft,"V,S,M",conjuration,1 action,Up to 4 Medium creatures or 1 Large creature in a 10-ft radius must succeed on a Str. save or be restrained.
+2,Web,,Concentration,60 ft,"V,S,M",conjuration,1 action,"Create a 20-ft cube filled by thick, sticky webs (difficult terrain) that can restrain creature (Dex. save)."
+9,Weird,,Concentration,120 ft,"V,S",illusion,1 action,Creatures in a 30-ft-radius sphere must succeed on a Wis. save or be frightened and take 4d10 psychic damage each turn.
+7,Whirlwind,,Concentration,300 ft,"V,M",evocation,1 action,"Creatures in a 10-ft-radius, 30-foot-high cylinder must succeed on a Dex. save or take 10d6 blunt damage."
+6,Wind Walk,,,30 ft,"V,S,M",transmutation,1 minute,The caster and up to 10 creatures assume gaseous form (flying speed of 300 ft and resistance to damage from nonmagical weapon).
+3,Wind Wall,,Concentration,120 ft,"V,S,M",evocation,1 action,"Create a 50-ft-long, 15-ft-high, 1-ft-thick wall of wind. Small flying creatures can't pass. Arrows and bolts are deflected."
+9,Wish,,,Self,V,conjuration,1 action,"Duplicate a 8th level spell or lower without components, or create another effect at the MD discretion."
+1,Witch Bolt,,Concentration,30 ft,"V,S,M",evocation,1 action,"If the spell attack hits, deals 1d12 lightning damage (damage/lvl) on each round."
+0,Word of Radiance,,,5 ft,"V,M",evocation,1 action,Creatures in a 5-ft radius must succeed on a Con. save or take 1d6 radiant damage (/lvl).
+6,Word of Recall,,,5 ft,V,conjuration,1 action,The caster and up to 5 other creatures are teleported to a previously designated sanctuary.
+5,Wrath of Nature,,Concentration,120 ft,"V,S",evocation,1 action,"Animate trees, rocks, and grasses in a 60 x 60 x 60 ft cube."
+1,Wrathful Smite,,Concentration,Self,V,evocation,1 bonus action,"If the attack hits, deals an extra 1d6 psychic damage and the target must succeed on a Wis. save or be frightened."
+1,Zephyr Strike,,Concentration,Self,V,transmutation,1 bonus action,The caster's movement (+30 ft) doesn't provoque OA and he gets advantage to one attack roll that deals an extra 1d8 force.
+2,Zone of Truth,,,60 ft,"V,S",enchantment,1 action,Creatures within a 15-ft-radius sphere must succeed on a Cha. save or can not lie.

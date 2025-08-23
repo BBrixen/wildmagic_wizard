@@ -1,0 +1,585 @@
+Name,Duration
+Acid Splash,Instantaneous
+Blade Ward,1 round
+Booming Blade,1 round
+Chill Touch,1 round
+Control Flames,Instantaneous or 1 hour
+Create Bonfire,"Concentration, up to 1 minute"
+Dancing Lights,Concentration up to 1 minute
+Decompose (HB),1 minute
+Druidcraft,Instantaneous
+Eldritch Blast,Instantaneous
+Encode Thoughts,8 hours
+Fire Bolt,Instantaneous
+Friends,"Concentration, up to 1 minute"
+Frostbite,Instantaneous
+Green-Flame Blade,Instantaneous
+Guidance,Concentration up to 1 minute
+Gust,Instantaneous
+Hand of Radiance (UA),Instantaneous
+Infestation,Instantaneous
+Light,1 hour
+Lightning Lure,Instantaneous
+Mage Hand,1 minute
+Magic Stone,1 minute
+Mending,Instantaneous
+Message,1 round
+Mind Sliver,1 round
+Minor Illusion,1 minute
+Mold Earth,Instantaneous or 1 hour
+On/Off (UA),Instantaneous
+Poison Spray,Instantaneous
+Prestidigitation,Up to 1 hour
+Primal Savagery,Self
+Produce Flame,10 minutes
+Ray of Frost,Instantaneous
+Resistance,Concentration up to 1 minute
+Sacred Flame,Instantaneous
+Sapping Sting,Instantaneous
+Shape Water,Instantaneous or 1 hour
+Shillelagh,1 minute
+Shocking Grasp,Instantaneous
+Spare the Dying,Instantaneous
+Sword Burst,Instantaneous
+Thaumaturgy,Up to 1 minute
+Thorn Whip,Instantaneous
+Thunderclap,Instantaneous
+Toll the Dead,Instantaneous
+True Strike,Concentration up to 1 round
+Vicious Mockery,Instantaneous
+Virtue (UA),1 round
+Word of Radiance,Instantaneous
+Absorb Elements,1 round
+Acid Stream (UA),"Concentration, up to 1 minute"
+Alarm,8 Hours
+Animal Friendship,24 hours
+Arcane Weapon (UA),"Concentration, up to 1 hour"
+Armor of Agathys,1 hour
+Arms of Hadar,Instantaneous
+Bane,"Concentration, up to 1 minute"
+Beast Bond,"Concentration, up to 1 minute"
+Bless,"Concentration, up to 1 minute"
+Burning Hands,Instantaneous
+Catapult,Instantaneous
+Cause Fear,"Concentration, up to 1 minute"
+Ceremony,Instantaneous
+Chaos Bolt,Instantaneous
+Charm Person,1 hour
+Chromatic Orb,Instantaneous
+Color Spray,1 round
+Command,1 round
+Compelled Duel,"Concentration, up to 1 minute"
+Comprehend Languages,1 hour
+Create or Destroy Water,Instantaneous
+Cure Wounds,Instantaneous
+Detect Evil and Good,"Concentration, up to 10 minutes"
+Detect Magic,"Concentration, up to 10 minutes"
+Detect Poison and Disease,"Concentration, up to 10 minutes"
+Disguise Self,1 hour
+Dissonant Whispers,Instantaneous
+Distort Value,8 hours
+Divine Favor,"Concentration, up to 1 minute"
+Earth Tremor,Instantaneous
+Ensnaring Strike,"Concentration, up to 1 minute"
+Entangle,"Concentration, up to 1 minute"
+Expeditious Retreat,"Concentration, up to 10 minutes"
+Faerie Fire,"Concentration, up to 1 minute"
+False Life,1 hour
+Feather Fall,1 minute
+Find Familiar,Instantaneous
+Fog Cloud,"Concentration, up to 1 hour"
+Frost Fingers,Instantaneous
+Gift of Alacrity,8 hours
+Goodberry,Instantaneous
+Grease,1 minute
+Guiding Bolt,1 round
+Guiding Hand (UA),"Concentration, up to 8 hours"
+Hail of Thorns,"Concentration, up to 1 minute"
+Healing Elixir (UA),24 hours
+Healing Word,Instantaneous
+Hellish Rebuke,Instantaneous
+Heroism,"Concentration, up to 1 minute"
+Hex,"Concentration, up to 1 hour"
+Hunter's Mark,"Concentration, up to 1 hour"
+Ice Knife,Instantaneous
+Id Insinuation (UA),"Concentration, up to 1 minute"
+Identify,Instantaneous
+Illusory Script,10 days
+Infallible Relay (UA),"Concentration, up to 10 minutes"
+Inflict Wounds,Instantaneous
+Jim's Magic Missile,Instantaneous
+Jump,1 minute
+Longstrider,1 hour
+Mage Armor,8 hours
+Magic Missile,Instantaneous
+Magnify Gravity,1 round
+Protection from Evil and Good,"Concentration, up to 10 minutes"
+Puppet (UA),Instantaneous
+Purify Food and Drink,Instantaneous
+Ray of Sickness,Instantaneous
+Remote Access (UA),10 minutes
+Sanctuary,1 minute
+Searing Smite,"Concentration, up to 1 minute"
+Sense Emotion (UA),"Concentration, up to 1 minute"
+Shield,1 round
+Shield of Faith,"Concentration, up to 1 minute"
+Silent Image,"Concentration, up to 10 minutes"
+Silvery Barbs,Instantaneous
+Sleep,1 minute
+Snare,Until dispelled or triggered
+Speak with Animals,10 minutes
+Sudden Awakening (UA),Instantaneous
+Tasha's Caustic Brew,"Concentration, up to 1 minute"
+Tasha's Hideous Laughter,"Concentration, up to 1 minute"
+Tenser's Floating Disk,1 hour
+Thunderous Smite,"Concentration, up to 1 minute"
+Thunderwave,Instantaneous
+Unearthly Chorus (UA),"Concentration, up to 10 minutes"
+Unseen Servant,1 hour
+Wild Cunning (UA),Instantaneous
+Witch Bolt,"Concentration, up to 1 minute"
+Wrathful Smite,"Concentration, up to 1 minute"
+Zephyr Strike,"Concentration, up to 1 minute"
+Aganazzar's Scorcher,Instantaneous
+Aid,8 hours
+Air Bubble,24 hours
+Alter Self,"Concentration, up to 1 hour"
+Animal Messenger,24 hours
+Arcane Hacking (UA),"Concentration, up to 1 hour"
+Arcane Lock,Until dispelled
+Augury,Instantaneous
+Barkskin,"Concentration, up to 1 hour"
+Beast Sense,"Concentration, up to 1 hour"
+Blindness/Deafness,1 minute
+Blur,"Concentration, up to 1 minute"
+Borrowed Knowledge,1 hour
+Branding Smite,"Concentration, up to 1 minute"
+Calm Emotions,"Concentration, up to 1 minute"
+Cloud of Daggers,"Concentration, up to 1 minute"
+Continual Flame,Until dispelled
+Cordon of Arrows,8 hours
+Crown of Madness,"Concentration, up to 1 minute"
+Darkness,"Concentration, up to 10 minutes"
+Darkvision,8 hours
+Detect Thoughts,"Concentration, up to 1 minute"
+Digital Phantom (UA),"Concentration, up to 1 hour"
+Dragon's Breath,"Concentration, up to 1 minute"
+Dust Devil,"Concentration, up to 1 minute"
+Earthbind,"Concentration, up to 1 minute"
+Enhance Ability,"Concentration, up to 1 hour"
+Enlarge/Reduce,"Concentration, up to 1 minute"
+Enthrall,1 minute
+Find Steed,Instantaneous
+Find Traps,Instantaneous
+Find Vehicle (UA),8 hours
+Flame Blade,"Concentration, up to 10 minutes"
+Flaming Sphere,"Concentration, up to 1 minute"
+Flock of Familiars,"Concentration, up to 1 hour"
+Fortune's Favor,1 hour
+Gentle Repose,10 days
+Gift of Gab,Instantaneous
+Gust of Wind,"Concentration, up to 1 minute"
+Healing Spirit,"Concentration, up to 1 minute"
+Heat Metal,"Concentration, up to 1 minute"
+Hold Person,"Concentration, up to 1 minute"
+Icingdeath's Frost (UA),Instantaneous
+Immovable Object,1 hour
+Invisibility,"Concentration, up to 1 hour"
+Jim's Glowing Coin,1 minute
+Kinetic Jaunt,"Concentration, up to 1 minute"
+Knock,Instantaneous
+Lesser Restoration,Instantaneous
+Levitate,"Concentration, up to 10 minutes"
+Locate Animals or Plants,Instantaneous
+Locate Object,"Concentration, up to 10 minutes"
+Magic Mouth,Until dispelled
+Magic Weapon,"Concentration, up to 1 hour"
+Maximillian's Earthen Grasp,"Concentration, up to 1 minute"
+Melf's Acid Arrow,Instantaneous
+Mental Barrier (UA),1 round
+Mind Spike,"Concentration, up to 1 hour"
+Mind Thrust (UA),1 round
+Mirror Image,1 minute
+Misty Step,Instantaneous
+Moonbeam,"Concentration, up to 1 minute"
+Nathair's Mischief,"Concentration, up to 1 minute"
+Nathair's Mischief (UA),"Concentration, up to 1 minute"
+Nystul's Magic Aura,24 hours
+Pass Without Trace,"Concentration, up to 1 hour"
+Phantasmal Force,"Concentration, up to 1 minute"
+Prayer of Healing,Instantaneous
+Protection from Poison,1 hour
+Pyrotechnics,Instantaneous
+Ray of Enfeeblement,"Concentration, up to 1 minute"
+Rime's Binding Ice,Instantaneous
+Rope Trick,1 hour
+Scorching Ray,Instantaneous
+See Invisibility,1 hour
+Shadow Blade,"Concentration, up to 1 minute"
+Shatter,Instantaneous
+Silence,"Concentration, up to 10 minutes"
+Skywrite,"Concentration, up to 1 day"
+Snilloc's Snowball Storm,Instantaneous
+Snilloc's Snowball Swarm,Instantaneous
+Spider Climb,"Concentration, up to 1 hour"
+Spike Growth,"Concentration, up to 10 minutes"
+Spiritual Weapon,1 minute
+Spray Of Cards,Instantaneous
+Spray of Cards (UA),Instantaneous
+Suggestion,"Concentration, up to 8 hours"
+Summon Beast,"Concentration, up to 1 hour"
+Tasha's Mind Whip,1 round
+Thought Shield (UA),8 hours
+Vortex Warp,Instantaneous
+Warding Bond,1 hour
+Warding Wind,"Concentration, up to 10 minutes"
+Warp Sense,"Concentration, up to 1 minute"
+Web,"Concentration, up to 1 hour"
+Wither and Bloom,Instantaneous
+Wristpocket,"Concentration, up to 1 hour"
+Zone of Truth,10 minutes
+Animate Dead,Instantaneous
+Antagonize,Instantaneous
+Antagonize (UA),Instantaneous
+Ashardalon's Stride,"Concentration, up to 1 minute"
+Aura of Vitality,"Concentration, up to 1 minute"
+Beacon of Hope,"Concentration, up to 1 minute"
+Bestow Curse,"Concentration, up to 1 minute"
+Blinding Smite,"Concentration, up to 1 minute"
+Blink,1 minute
+Call Lightning,"Concentration, up to 10 minutes"
+Catnap,10 minutes
+Clairvoyance,"Concentration, up to 10 minutes"
+Conjure Animals,"Concentration, up to 1 hour"
+Conjure Barrage,Instantaneous
+Conjure Lesser Demon (UA),"Concentration, up to 1 hour"
+Counterspell,Instantaneous
+Create Food and Water,Instantaneous
+Crusader's Mantle,"Concentration, up to 1 minute"
+Daylight,1 hour
+Dispel Magic,Instantaneous
+Elemental Weapon,"Concentration, up to 1 hour"
+Enemies Abound,"Concentration, up to 1 minute"
+Erupting Earth,Instantaneous
+Fast Friends,"Concentration, up to 1 hour"
+Fear,"Concentration, up to 1 minute"
+Feign Death,1 hour
+Fireball,Instantaneous
+Flame Arrows,"Concentration, up to 1 hour"
+Flame Stride (UA),"Concentration, up to 1 minute"
+Fly,"Concentration, up to 10 minute"
+Freedom of the Waves (HB),Instantaneous
+Galder's Tower,24 hours
+Gaseous Form,"Concentration, up to 1 hour"
+Glyph of Warding,Until dispelled or triggered
+Haste,"Concentration, up to 1 minute"
+Haywire (UA),"Concentration, up to 1 minute"
+House of Cards (UA),24 hours
+Hunger Of Hadar,"Concentration, up to 1 minute"
+Hypnotic Pattern,"Concentration, up to 1 minute"
+Incite Greed,"Concentration, up to 1 minute"
+Intellect Fortress,"Concentration, up to 1 hour"
+Invisibility To Cameras (UA),"Concentration, up to 1 minute"
+Leomund's Tiny Hut,8 hours
+Life Transference,Instantaneous
+Lightning Arrow,"Concentration, up to 1 minute"
+Lightning Bolt,Instantaneous
+Magic Circle,1 hour
+Major Image,"Concentration, up to 10 minutes"
+Mass Healing Word,Instantaneous
+Meld into Stone,8 hours
+Melf's Minute Meteors,"Concentration, up to 10 minutes"
+Motivational Speech,1 hour
+Nondetection,8 hours
+Phantom Steed,1 hour
+Plant Growth,Instantaneous
+Protection from Ballistics (UA),"Concentration, up to 10 minutes"
+Protection from Energy,"Concentration, up to 1 hour"
+Psionic Blast (UA),Instantaneous
+Pulse Wave,Instantaneous
+Remove Curse,Instantaneous
+Revivify,Instantaneous
+Sending,1 round
+Sleet Storm,"Concentration, up to 1 minute"
+Slow,"Concentration, up to 1 minute"
+Speak with Dead,10 minutes
+Speak with Plants,10 minutes
+Spirit Guardians,"Concentration, up to 10 minutes"
+Spirit Shroud,"Concentration, up to 1 minute"
+Stinking Cloud,"Concentration, up to 1 minute"
+Summon Fey,"Concentration, up to 1 hour"
+Summon Lesser Demons,"Concentration, up to 1 hour"
+Summon Shadowspawn,"Concentration, up to 1 hour"
+Summon Undead,"Concentration, up to 1 hour"
+Summon Warrior Spirit (UA),"Concentration, up to 1 hour"
+Thunder Step,Instantaneous
+Tidal Wave,Instantaneous
+Tiny Servant,8 hours
+Tongues,1 hour
+Vampiric Touch,"Concentration, up to 1 minute"
+Wall of Sand,"Concentration, up to 10 minutes"
+Wall of Water,"Concentration, up to 10 minutes"
+Water Breathing,24 hours
+Water Walk,1 hour
+Wind Wall,"Concentration, up to 1 minute"
+Arcane Eye,"Concentration, up to 1 hour"
+Aura of Life,"Concentration, up to 10 minutes"
+Aura of Purity,"Concentration, up to 10 minutes"
+Banishment,"Concentration, up to 1 minutes"
+Blight,Instantaneous
+Charm Monster,1 hour
+Compulsion,"Concentration, up to 1 minute"
+Confusion,"Concentration, up to 1 minute"
+Conjure Barlgura (UA),Up to 10 minutes
+Conjure Knowbot (UA),10 minutes
+Conjure Minor Elementals,"Concentration, up to 1 hour"
+Conjure Shadow Demon (UA),"Concentration, up to 1 hour"
+Conjure Woodland Beings,"Concentration, up to 1 hour"
+Control Water,"Concentration, up to 10 minutes"
+Death Ward,8 hours
+Dimension Door,Instantaneous
+Divination,Instantaneous
+Dominate Beast,"Concentration, up to 1 minute"
+Ego Whip (UA),"Concentration, up to 1 minute"
+Elemental Bane,"Concentration, up to 1 minute"
+Evard's Black Tentacles,"Concentration, up to 1 minute"
+Fabricate,Instantaneous
+Find Greater Steed,Instantaneous
+Fire Shield,10 minutes
+Freedom of Movement,1 hour
+Galder's Speedy Courier,10 minutes
+Gate Seal,24 hours
+Giant Insect,"Concentration, up to 10 minutes"
+Grasping Vine,"Concentration, up to 1 minute"
+Gravity Sinkhole,Instantaneous
+Greater Invisibility,"Concentration, up to 1 minute"
+Guardian of Faith,8 hours
+Guardian of Nature,"Concentration, up to 1 minute"
+Hallucinatory Terrain,24 hours
+Ice Storm,Instantaneous
+Leomund's Secret Chest,Instantaneous
+Locate Creature,"Concentration, up to 1 hour"
+Mordenkainen's Faithful Hound,8 hours
+Mordenkainen's Private Sanctum,24 hours
+Otiluke's Resilient Sphere,"Concentration, up to 1 minute"
+Phantasmal Killer,"Concentration, up to 1 minute"
+Polymorph,"Concentration, up to 1 hour"
+Raulothim's Psychic Lance,Instantaneous
+Raulothim's Psychic Lance (UA),Instantaneous
+Shadow Of Moil,"Concentration, up to 1 minute"
+Sickening Radiance,"Concentration, up to 10 minutes"
+Spirit Of Death,"Concentration, up to 1 hour"
+Spirit of Death (UA),"Concentration, up to 1 minute"
+Staggering Smite,"Concentration, up to 1 minute"
+Stone Shape,Instantaneous
+Stoneskin,"Concentration, up to 1 hour"
+Storm Sphere,"Concentration, up to 1 minute"
+Summon Aberration,"Concentration, up to 1 hour"
+Summon Construct,"Concentration, up to 1 hour"
+Summon Elemental,"Concentration, up to 1 hour"
+Summon Greater Demon,"Concentration, up to 1 hour"
+Synchronicity (UA),"Concentration, up to 1 hour"
+System Backdoor (UA),"Concentration, up to 1 hour"
+Vitriolic Sphere,Instantaneous
+Wall of Fire,"Concentration, up to 1 minute"
+Watery Sphere,"Concentration, up to 1 minute"
+Widogast's Vault of Amber (HB),Until dispelled
+Widogast's Web of Fire (HB),Instantaneous
+Animate Objects,"Concentration, up to 1 minute"
+Antilife Shell,"Concentration, up to 1 hour"
+Awaken,Instantaneous
+Banishing Smite,"Concentration, up to 1 minute"
+Bigby's Hand,"Concentration, up to 1 minute"
+Circle of Power,"Concentration, up to 10 minutes"
+Cloudkill,"Concentration, up to 10 minutes"
+Commune,1 minute
+Commune with City (UA),Instantaneous
+Commune with Nature,Instantaneous
+Cone of Cold,Instantaneous
+Conjure Elemental,"Concentration, up to 1 hour"
+Conjure Volley,Instantaneous
+Conjure Vrock (UA),"Concentration, up to 1 hour"
+Contact Other Plane,1 minute
+Contagion,7 days
+Control Winds,"Concentration, up to 1 hour"
+Create Spelljamming Helm,Instantaneous
+Creation,Special
+Danse Macabre,"Concentration, up to 1 hour"
+Dawn,"Concentration, up to 1 minute"
+Destructive Wave,Instantaneous
+Dispel Evil and Good,"Concentration, up to 1 minute"
+Dominate Person,"Concentration, up to 1 minute"
+Dream,8 hours
+Enervation,"Concentration, up to 1 minute"
+Far Step,"Concentration, up to 1 minute"
+Flame Strike,Instantaneous
+Freedom of the Winds (HB),Concentration up to 10 minutes
+Geas,30 days
+Greater Restoration,Instantaneous
+Hallow,Until dispelled
+Hold Monster,"Concentration, up to 1 minute"
+Holy Weapon,"Concentration, up to 1 hour"
+Immolation,"Concentration, up to 1 minute"
+Infernal Calling,"Concentration, up to 1 hour"
+Insect Plague,"Concentration, up to 10 minutes"
+Legend Lore,Instantaneous
+Maelstrom,"Concentration, up to 1 minute"
+Mass Cure Wounds,Instantaneous
+Mislead,"Concentration, up to 1 hour"
+Modify Memory,"Concentration, up to 1 minute"
+Negative Energy Flood,Instantaneous
+Passwall,1 hour
+Planar Binding,24 hours
+Raise Dead,Instantaneous
+Rary's Telepathic Bond,1 hour
+Reincarnate,Instantaneous
+Scrying,"Concentration, up to 10 minutes"
+Seeming,8 hours
+Shutdown (UA),"Concentration, up to 1 minute"
+Skill Empowerment,"Concentration, up to 1 hour"
+Steel Wind Strike,Instantaneous
+Summon Celestial,"Concentration, up to 1 hour"
+Summon Draconic Spirit,"Concentration, up to 1 hour"
+Summon Draconic Spirit (UA),"Concentration, up to 1 hour"
+Swift Quiver,"Concentration, up to 1 minute"
+Synaptic Static,Instantaneous
+Telekinesis,"Concentration, up to 10 minutes"
+Teleportation Circle,1 round
+Temporal Shunt,1 round
+Transmute Rock,Instantaneous
+Tree Stride,"Concentration, up to 1 minute"
+Wall of Force,"Concentration, up to 10 minutes"
+Wall of Light,"Concentration, up to 10 minutes"
+Wall of Stone,"Concentration, up to 10 minutes"
+Wrath Of Nature,"Concentration, up to 1 minute"
+Arcane Gate,"Concentration, up to 10 minutes"
+Blade Barrier,"Concentration, up to 10 minutes"
+Bones of the Earth,Instantaneous
+Chain Lightning,Instantaneous
+Circle of Death,Instantaneous
+Conjure Fey,"Concentration, up to 1 hour"
+Contingency,10 days
+Create Homunculus,Instantaneous
+Create Undead,Instantaneous
+Disintegrate,Instantaneous
+Drawmij's Instant Summons,Until dispelled
+Druid Grove,24 hours
+Eyebite,"Concentration, up to 1 minute"
+Find the Path,"Concentration, up to 1 day"
+Fizban's Platinum Shield,"Concentration, up to 1 minute"
+Fizban's Platinum Shield (UA),"Concentration, up to 1 minute"
+Flesh to Stone,"Concentration, up to 1 minute"
+Forbiddance,1 day
+Globe of Invulnerability,"Concentration, up to 1 minute"
+Gravity Fissure,Instantaneous
+Guards and Wards,24 hours
+Harm,Instantaneous
+Heal,Instantaneous
+Heroes' Feast,Instantaneous
+Investiture of Flame,"Concentration, up to 10 minutes"
+Investiture of Ice,"Concentration, up to 10 minutes"
+Investiture of Stone,"Concentration, up to 10 minutes"
+Investiture of Wind,"Concentration, up to 10 minutes"
+Magic Jar,Until dispelled
+Mass Suggestion,24 hours
+Mental Prison,"Concentration, up to 1 minute"
+Move Earth,"Concentration, up to 2 hours"
+Otherworldly Form (UA),"Concentration, up to 1 minute"
+Otiluke's Freezing Sphere,Instantaneous
+Otto's Irresistible Dance,"Concentration, up to 1 minute"
+Planar Ally,Instantaneous
+Primordial Ward,"Concentration, up to 1 minute"
+Programmed Illusion,Until dispelled
+Psychic Crush (UA),1 minute
+Scatter,Instantaneous
+Soul Cage,8 hours
+Summon Fiend,"Concentration, up to 1 hour"
+Sunbeam,"Concentration, up to 1 minute"
+Tasha's Otherworldly Guise,"Concentration, up to 1 minute"
+Tenser's Transformation,"Concentration, up to 10 minutes"
+Transport via Plants,1 round
+True Seeing,1 hour
+Wall of Ice,"Concentration, up to 10 minutes"
+Wall of Thorns,"Concentration, up to 10 minutes"
+Widogast's Transmogrification (HB),Instantaneous
+Wind Walk,8 hours
+Word of Recall,Instantaneous
+Conjure Celestial,"Concentration, up to 1 hour"
+Conjure Hezrou (UA),"Concentration, up to 1 hour"
+Create Magen,Instantaneous
+Crown of Stars,1 hour
+Delayed Blast Fireball,"Concentration, up to 1 minute"
+Divine Word,Instantaneous
+Draconic Transformation,"Concentration, up to 1 minute"
+Draconic Transformation (UA),"Concentration, up to 1 minute"
+Dream of the Blue Veil,6 hours
+Etherealness,Up to 8 hours
+Finger of Death,Instantaneous
+Fire Storm,Instantaneous
+Forcecage,1 hour
+Mirage Arcane,10 days
+Mordenkainen's Magnificent Mansion,24 hours
+Mordenkainen's Sword,"Concentration, up to 1 minute"
+Plane Shift,Instantaneous
+Power Word Pain,Instantaneous
+Prismatic Spray,Instantaneous
+Project Image,"Concentration, up to 1 day"
+Regenerate,1 hour
+Resurrection,Instantaneous
+Reverse Gravity,"Concentration, up to 1 minute"
+Sequester,Until dispelled
+Simulacrum,Until dispelled
+Symbol,Until dispelled or triggered
+Teleport,Instantaneous
+Temple of the Gods,24 hours
+Tether Essence,"Concentration, up to 1 hour"
+Whirlwind,"Concentration, up to 1 minute"
+Abi-Dalzim's Horrid Wilting,Instantaneous
+Animal Shapes,"Concentration, up to 24 hours"
+Antimagic Field,"Concentration, up to 1 hour"
+Antipathy/Sympathy,10 Days
+Clone,Instantaneous
+Control Weather,"Concentration, Up to 8 hours"
+Dark Star,"Concentration, up to 1 minute"
+Demiplane,1 hour
+Dominate Monster,"Concentration, up to 1 hour"
+Earthquake,"Concentration, up to 1 minute"
+Feeblemind,Instantaneous
+Glibness,1 hour
+Holy Aura,"Concentration, up to 1 minute"
+Illusory Dragon,"Concentration, up to 1 minute"
+Incendiary Cloud,"Concentration, up to 1 minute"
+Maddening Darkness,"Concentration, up to 10 minutes"
+Maze,"Concentration, up to 10 minutes"
+Mighty Fortress,Instantaneous
+Mind Blank,24 hours
+Power Word: Stun,Instantaneous
+Reality Break,"Concentration, up to 1 minute"
+Sunburst,Instantaneous
+Telepathy,24 hours
+Tsunami,"Concentration, up to 6 rounds"
+Astral Projection,Special
+Blade of Disaster,"Concentration, up to 1 minute"
+Foresight,8 hours
+Gate,"Concentration, up to 1 minute"
+Imprisonment,Until dispelled
+Invulnerability,"Concentration, up to 10 minutes"
+Mass Heal,Instantaneous
+Mass Polymorph,"Concentration, up to 1 hour"
+Meteor Swarm,Instantaneous
+Power Word: Heal,Instantaneous
+Power Word: Kill,Instantaneous
+Prismatic Wall,10 minutes
+Psychic Scream,Instantaneous
+Ravenous Void,"Concentration, up to 1 minute"
+Shapechange,"Concentration, up to 1 hour"
+Storm of Vengeance,Concentration up to 1 minute
+Time Ravage,Instantaneous
+Time Stop,Instantaneous
+True Polymorph,"Concentration, up to 1 hour"
+True Resurrection,Instantaneous
+Weird,"Concentration, up to 1 minute"
+Wish,Instantaneous
+Power Word Heal,Instantaneous
+Power Word Kill,Instantaneous
+Power Word Stun,Instantaneous
