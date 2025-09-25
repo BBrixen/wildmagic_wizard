@@ -1,29 +1,30 @@
-Seed: 1234
-            NAME              |   ATTRS   |   TIME   |  DURATION  |   RANGE   | SCHOOL | DESCRIPTION
+Seed: sept20day2
+            NAME              |   ATTRS    |   TIME   |  DURATION  |   RANGE   | SCHL | DESCRIPTION
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 LEVEL 0:                      |            |          |            |           |      |
-INFESTATION                   |     V S M  | A        | INST       | 30        | CONJ | The target must succeed on a Con. save or take 1d6 poison damage and move 5 ft in a random direction (damage/lvl).
-TRUE STRIKE                   | C     S    | A        | ROUND      | 30        | DIVI | The caster gains advantage on his first attack roll against a target.
-LIGHT                         |     V   M  | A        | HR         | TOUCH     | EVOC | Make an object to shed bright light in a 20-ft radius and dim light in an additional 20-ft radius.
-THUNDERCLAP                   |       S    | A        | INST       | 5         | EVOC | Creatures within 5 ft must succeed on a Con. save or take 1d6 thunder damage (damage/lvl).
+FROSTBITE                     |     V S    | A        | INST       | 60        | EVOC | The target must succeed on a Con. save or take 1d6 cold damage and have disadvantage on next attack roll (damage/lvl).
+MESSAGE                       |     V S M  | A        | ROUND      | 120       | TRAN | The caster whispers a message to a creature within 120 ft who will be the only one to hear it. It can reply the same way.
+MAGE HAND                     |     V S    | A        | MIN        | 30        | CONJ | Create a spectral hand that can in a 30-ft radius manipulate an object, open a door, stow an item, etc.
+SPARE THE DYING               |     V S    | A        | INST       | TOUCH     | NECR | 1 living creature with 0 hit points becomes stable.
                               |            |          |            |           |      |
 LEVEL 1:                      |            |          |            |           |      |
-SEARING SMITE                 | C   V      | BA       | MIN        | SELF      | EVOC | If the attack hits, deals an extra 1d6 fire damage and ignite the target (damage/lvl).
-ALARM                         |   R V S M  | MIN      | 8 HRS      | 30        | ABJU | Alert the caster or activate an alarm if a Tiny or larger creature enters a warded 20-ft cube.
-SNARE                         |       S M  | MIN      | DISP, TRIG | TOUCH     | ABJU | Create a magic trap (Dex. save or the Small to Large size creature is hoisted into the air).
-PROTECTION FROM EVIL AND GOOD | C   V S M  | A        | 10 MINS    | TOUCH     | ABJU | The target is protected (disadvantage on attack rolls) against aberrations, celestials, elementals, fey, fiends, and undead.
+IDENTIFY                      |   R V S M  | MIN      | INST       | TOUCH     | DIVI | The caster obtains properties of a magic item (attunement, charges) or knows if an item or a creature is affected by a spell.
+ABSORB ELEMENTS               |       S    | REACT    | ROUND      | SELF      | ABJU | The caster has resistance to the damage received and deals 1d6 extra damage of the same type on his next attack (damage/lvl).
+FALSE LIFE                    |     V S M  | A        | HR         | SELF      | NECR | The caster gains 1d4+4 temporary hit points (+5 hp/lvl).
+FIND FAMILIAR                 |   R V S M  | HR       | INST       | 10        | CONJ | Summon a small animal that obeys the caster and telepathically shares his senses with him.
                               |            |          |            |           |      |
 LEVEL 2:                      |            |          |            |           |      |
-DARKNESS                      | C   V   M  | A        | 10 MINS    | 60        | EVOC | Fill a 15-ft-radius sphere of magical darkness.
-EARTHBIND                     | C   V      | A        | MIN        | 300       | TRAN | Target within 300 ft must succeed on a Str. save or its flying speed is reduced to 0 (descends at 60 ft/round).
-ENHANCE ABILITY               | C   V S M  | A        | HR         | TOUCH     | TRAN | The target gains advantage on ability checks for one predefined ability, and other bonuses in such cases (+1 creature/lvl).
+PRAYER OF HEALING             |     V      | 10 MINS  | INST       | 30        | EVOC | Up to 6 creatures regain 2d8+Ability.Mod (+1d8 hp/lvl).
+SPIKE GROWTH                  | C   V S M  | A        | 10 MINS    | 150       | TRAN | Creatures in a 20-ft radius (difficult terrain) take 2d4 piercing damage for every 5 ft of movement.
+SHATTER                       |     V S M  | A        | INST       | 60        | EVOC | Creatures in a 10-ft-radius sphere must succeed on a Con. save or take 3d8 thunder damage (damage/lvl).
                               |            |          |            |           |      |
 LEVEL 3:                      |            |          |            |           |      |
-ERUPTING EARTH                |     V S M  | A        | INST       | 120       | TRAN | Creatures in a 20-foot cube (difficult terrain) must succeed on a Dex. save or take 3d12 bludgeoning damage (damage/lvl).
-GASEOUS FORM                  | C   V S M  | A        | HR         | TOUCH     | TRAN | The target turns into a cloud, gets a flying speed of 10 ft, and can pass through small holes.
-TINY SERVANT                  |     V S    | MIN      | 8 HRS      | TOUCH     | TRAN | Transform one Tiny object into a creature with arms and legs under the caster control (+2 objects/lvl).
+LIGHTNING ARROW               | C   V S    | BA       | MIN        | SELF      | TRAN | If the attack hits, deals 4d8 Iightning damage. Creatures within 10 ft must succeed on a Dex. save or take 2d8 lightning damage.
+CALL LIGHTNING                | C   V S    | A        | 10 MINS    | 120       | CONJ | Creatures in a 5-ft radius must succeed on a Dex. save or take 3d10 lightning damage (damage/lvl) on each turn.
+WATER BREATHING               |   R V S M  | A        | 24 HRS     | 30        | TRAN | Up to 10 creatures gets the ability to breathe underwater.
+SENDING                       |     V S M  | A        | ROUND      | UNLIMITED | EVOC | Send a 25-words message to a creature you are familiar with, regardless of the distance or the plan. It can answer it.
                               |            |          |            |           |      |
 LEVEL 4:                      |            |          |            |           |      |
-POLYMORPH                     | C   V S M  | A        | HR         | 60        | TRAN | Transform a target into a new beast form whose CR/level is equal to or less than the target's CR/level.
-PHANTASMAL KILLER             | C   V S    | A        | MIN        | 120       | ILLU | The target must succeed on a Wis. save or be frightened then take 4d10 psychic damage (damage/lvl) on each of it's turn.
+CONJURE MINOR ELEMENTALS      | C   V S    | MIN      | HR         | 90        | CONJ | Summon from 1 elemental of CR 2 to 8 elemental of CR 1/4, friendly (nbr of creatures/lvl).
+WALL OF FIRE                  | C   V S M  | A        | MIN        | 120       | EVOC | Create a 60 x 20 x 1 ft wall of fire. Creatures inside or within 10ft of one side of the wall take 5d8 fire damage (damage/lvl).
                               |            |          |            |           |      |

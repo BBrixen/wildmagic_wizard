@@ -121,7 +121,7 @@ def read_distribution():
 
 def generate_spells(available, needed):
     spell_txt = ""
-    title = f"{'NAME':^29} | {'  ATTRS  ':^7} | {'TIME':^8} | {'DURATION':^10} | {'RANGE':^9} | {'SCHOOL':^4} | {'DESCRIPTION':>}"
+    title = f"{'NAME':^29} | {'  ATTRS  ':^7}  | {'TIME':^8} | {'DURATION':^10} | {'RANGE':^9} | {'SCHL':^4} | {'DESCRIPTION':>}"
     spell_txt += f"{title}\n{'-'*200}\n"
 
     for level, num in needed.items():
